@@ -1,0 +1,2045 @@
+﻿Sl. No,Determinand_notation,determinand_name,determinand_definition
+1,3,Methoxychlor,Flow Type
+2,4,Time Hi-Tide,Time of high tide
+3,6,Sample Depth,Sample Depth below surface
+4,7,C>5-C44 DW,Dimethylphenol : Total Isomers : LOD as 0 :- {Xylenols}
+5,22,Flow Type,Time
+6,24,,
+7,28,Wind Degrees,Weather : Wind Direction : Degrees
+8,29,Wind Speed,Fenthion
+9,30,PCB Con 169,PCB - 126
+10,31,Time,Secchi depth
+11,37,Flow m3/s,Perfluorooctanesulfonic acid (total)
+12,38,,
+13,39,DiOctyl Sn,Bacteroides CF128 primer
+14,41,,
+15,45,Zn - wet wt,Nemoura sp.
+16,46,123678HxCDFd,"1,2,3,7,8-Pentachlorodibenzofuran : Dry Wt"
+17,47,GSF14.5-11.4,Grain Size Fraction : 9.1 to 7.2 microns
+18,50,Lead - as Pb,Escherichia coli : Confirmed : MF
+19,52,Pb Filtered,"Lead, Dissolved"
+20,61,pH,pH
+21,62,Cond @ 20C,Conductivity at 20 C
+22,66,"2,6-Xylenol","Optical Density at 420 nm, Filtered"
+23,67,Transparency,Transparency
+24,68,Turbidity,Sodium
+25,69,Bifenthrin,Bifenthrin
+26,72,Colour Filt,Volume of Sample Filtered
+27,73,Mn BLM Bio,Cyanide as CN
+28,76,Temp Water,Temperature of Water
+29,77,Cond @ 25C,Conductivity at 25 C
+30,81,O Diss% Satn,PCB - 105
+31,83,nPropylbenzn,Isopropylbenzene :- {Methylethylbenzene}
+32,64,OdorThresNum,Catellicoccus Marker : Seabird
+33,82,O Dissolved,Ethylbenzene
+34,84,Fe - Wet Wt,Phaeocystis : Bloom algae
+35,85,BOD ATU,BOD : 5 Day ATU
+36,88,BOD  5 Day-O,Enterovirus
+37,90,DPhAmine,"1,4-Dinitrobenzene"
+38,91,EC0157 MPN,Amitrole
+39,92,COD as O2,Enterococci: Intestinal: Presumptive: MF
+40,97,GLC ID,4-Chloroaniline :- {4-Chlorobenzamine}
+41,99,C - Organic,Diflurobenzuron
+42,103,Hg Filtered,"Mercury, Dissolved"
+43,104,SiO2,"Ethylene glycol :- {Ethan-1,2-diol}"
+44,105,Mercury - Hg,Mercury
+45,106,Cd Filtered,"Carbon, Organic, Dissolved as C :- {DOC}"
+46,108,Cadmium - Cd,Type of flow as description
+47,109,NP5EO,Bacteroidetes Marker : All : Report
+48,111,Ammonia(N),Ammoniacal Nitrogen as N
+49,113,N Organic,"Nitrogen, Organic as N"
+50,114,N-Kjeldahl,"Nitrogen, Kjeldahl as N"
+51,116,N Oxidised,"Nitrogen, Total Oxidised as N"
+52,117,Nitrate-N,Nitrate as N
+53,118,Nitrite-N,Nitrite as N
+54,119,NH3 un-ion,Ammonia un-ionised as N
+55,120,,
+56,134,ALK.0.45um,Silica as SiO2
+57,135,Sld Sus@105C,"Solids, Suspended at 105 C"
+58,138,"Butan1,3Diol",Weather : Wind Speed maximum : Beaufort Scale
+59,143,Sld NV@500C,NGR : Easting
+60,144,PBDE,Polybrominated Diphenyl ethers
+61,152,2MeNaphthaln,Diethyl Phthalate
+62,153,Chloromethan,Hexachloroethane
+63,156,,Dibromochloromethane : Dry Wt
+64,158,Hardness,"Hardness, Total as CaCO3"
+65,159,Drins Dry Wt,"Drins : Total (Aldrin, Dieldrin, Endrin, Isodrin) : Dry Wt"
+66,162,Alky pH 4.5,Alkalinity to pH 4.5 as CaCO3
+67,163,Hdnss Ca,Alkalinity to pH 4.5 : Grans Plot
+68,164,"2,3,5,6-Tetr",Fonofos
+69,166,DDE (PP')DWt,Hexachlorobutadiene : Dry Wt
+70,167,OdourPhenolc,pH : Instrumental
+71,171,Oxamyl,Bromide
+72,172,Chloride Ion,Chloride
+73,174,CN Free,"2,3-Dimethylphenol :- {2,3-Xylenol}"
+74,175,Cyanide - CN,Selenium
+75,177,Fluoride - F,Beach signage confirmation
+76,179,C10-24,Equiv.Carbon No >10-20
+77,180,Orthophospht,"Orthophosphate, reactive as P"
+78,182,SiO2 Rv,Cadmium
+79,183,Sulphate SO4,Sulphate as SO4
+80,184,DiEtPHTHALAT,Oil Identification
+81,185,Permeth-c DW,cis-Permethrin : Dry Wt
+82,186,EULAN,Styrene :- {Vinylbenzene}
+83,188,Hg LeachDW,Crayfish plague (Aphanomyces astaci) DNA copy number
+84,191,HcarbonOils,Detergents : Anionic + non-ionic
+85,192,Phosphate,Phosphate :- {TIP}
+86,193,TERBUTRYNd,"1,2,3,7,8,9-Hexachlorodibenzofuran : Dry Wt"
+87,204,ColfmF PMF10,"2,3,7,8-Tetrachlorodibenzofuran - ITEQ Upper Bound"
+88,205,Na- Filtered,"Potassium, Dissolved"
+89,207,Sodium - Na,Tributyl Tin as Cation
+90,208,CHLORPROPHAM,White-clawed crayfish (Austropotamobius pallipes) DNA: Present/NF
+91,209,K- Filtered,"Detergents, Anionic"
+92,211,Potassium- K,Potassium
+93,212,Mo - Dry Wt,"Arsenic, Leachable"
+94,216,C>5-40,2-Propanol :- {iso-Propanol}
+95,220,Bismuth,trans-Permethrin : Dry Wt
+96,234,123TrClPrDW,"Sulphate, Leachable : Dry Wt as SO4"
+97,235,Mg Filtered,"Magnesium, Dissolved"
+98,237,Magnesium-Mg,Magnesium
+99,238,2378-TCDF DW,"1,2,3,7,8-Pentachlorodibenzo-p-dioxin : Dry Wt"
+100,239,Ca Filtered,"Calcium, Dissolved"
+101,241,Calcium - Ca,Calcium
+102,242,T-HTEP DRY,Hydrogen Peroxide
+103,246,Methane -CH4,Methane as CH4
+104,250,BrDiClmethan,"Carbon, Organic, Dissolved, Leachable as C :- {DOC}"
+105,254,C>20-30 Aro,"Equiv.Carbon No >10-40, Aromatic Fraction"
+106,258,PFOS DW,Perfluoropentanoic acid : Dry Wt
+107,270,THODNU 40 C,Flusilazole
+108,284,HeptachlrDWt,Chlorpropham : Dry Wt
+109,288,PhenthC2sDWt,Endrin : Dry Wt
+110,292,124TMeBenzDW,"1,2-Dibromoethane : Dry Wt"
+111,301,C - Org Filt,"Silica, reactive as SiO2"
+112,303,4nOctylpheno,Grain Size Fraction : phi 4.0 to 4.5
+113,317,CN Tot Lch,"Magnesium, Leachable : Dry Wt"
+114,325,CHLOROMETHAN,"1,3-Dichlorobenzene : Dry Wt"
+115,329,Alky Instrum,Alkalinity : Instrumental
+116,346,Bact All CN,Thallium : Total
+117,348,Phosphorus-P,"Phosphorus, Total as P"
+118,349,Br Free in-s,Flow : Staff gauge
+119,353,EC0157,Amosite :- {Brown Asbestos}
+120,357,C>8-10 Arom,Colony count : 3 Days at 37C : Aerobic
+121,361,Fluorescein,Equiv.Carbon No 6-10 : (Petrol Range) : Dry Wt
+122,376,Tl diss,"2,4-Dinitrotoluene :- {2,4-DNT}"
+123,380,PFundencAcDW,Perfluoroheptanoic acid : Dry Wt
+124,384,GCMS Deriv,GCMS Scan : Semi Volatile Screen : Additional 2
+125,404,AcenphthnDWt,Grain Size : 4000 to 7999 microns
+126,422,O SOL.REACT,Norfluoxetine
+127,426,SO4 Lch DW,"Lithium, Leachable : Dry Wt"
+128,430,GraphSkewn,Equiv.Carbon No >5-40
+129,460,pH Inst unit,Napropamide
+130,461,DtrgtAncSyn,"Nitrogen, Dissolved Inorganic : as N"
+131,462,PFtetdncAcid,Demeton-S-methyl sulphone
+132,463,Dtrgt NncSyn,State of visible pollution Scale 0-3
+133,483,Aldrin,Endrin
+134,484,GSF4000-7999,"1,2,4-Trichlorobenzene : Dry Wt"
+135,487,HCH Alpha,HCH -beta
+136,488,TRI CLET P,Tris-Chloroethyl phosphate
+137,491,HCH Beta,"Colour, Filtered"
+138,492,PCB 101 DW,PCB - 101 : Dry Wt
+139,495,HCH Delta,"Salinity, by Conductivity"
+140,496,Acrylic Acid,Octachlorodibenzofuran
+141,499,HCH Gamma,HCH -gamma :- {Lindane}
+142,500,Met Grp 34,Metals : Total ( Cr Cu Ni Pb Zn ) : Group 34
+143,503,Chlorfenvphs,pH : In Situ
+144,504,Colfm PMF,GCMS Scan : Semi Volatile Screen : Additional 3
+145,507,Dichlorvos,Simazine
+146,508,C>5-7 Arom,"DDT : Total Isomers (DDT op pp, DDE pp, TDE pp) : Dry Wt"
+147,511,Dieldrin,DDE -pp
+148,512,DBNZAH_DRY,Diazinon : Wet Wt
+149,524,Ni - wet wt,Aluminium : Wet Wt
+150,527,Heptachlor,Dichloromethane :- {Methylene Dichloride}
+151,528,"2,3 DICHLORO","Molybdenum, Leachable"
+152,531,Salmonella,Mitochondrial Marker : Human
+153,532,Colfm P-MPN,"Sulphate, Leachable"
+154,535,Malathion,Phytoplankton
+155,536,CROCIDLITE,Benzo(e)Pyrene : Dry Wt
+156,539,DDT (OP'),DDT -op
+157,540,Microx15<95%,Grain Size Fraction : 32 to 63 microns
+158,543,Parathion,Benzene
+159,544,ZeMuDNA P:NF,Gas Balance : Sum of (CO2 + Oxygen + Methane)
+160,547,Phorate,cis-Heptachlor epoxide
+161,551,DDE (PP'),TDE -pp
+162,552,GSF <3.9,Equiv.Carbon No 10-40
+163,555,DDT (PP),Weather : Temperature : Previous 24 hours
+164,556,Sieved < 63,Palladium
+165,559,TDE (PP),HCH -alpha
+166,560,GSF32-63,Pentachlorophenol : Dry Wt
+167,562,Endrin,Benzo(a)Pyrene
+168,568,DiMeformamid,Acenaphthene : Dry Wt
+169,569,EndosulphanA,Cypermethrin
+170,570,EndosulphanB,Endosulfan A
+171,573,TDE (OP),Oil
+172,574,PBDE 209 DW,"2,2,4,4,5,6-Hexabromodiphenyl ether : Dry Wt :- {PBDE 154}"
+173,575,DDT Derived,"Strontium, Filtered"
+174,576,Hexachlorbnz,Hexachlorobenzene
+175,577,Chloride Fld,Hydrocarbons : Dissolved or emulsified
+176,578,Fluoxetine,cis-Chlordane
+177,579,Diquat,"1,4-Butylene glycol :- {Butan-1,4-diol}"
+178,581,DDE (OP'),Bromoxynil
+179,603,NaphthalnDWt,Grain Size Inclusive Mean
+180,612,FOSA,2-(N-Methylperfluorooctanesulfonamido)acetic acid (L)
+181,664,Oil & Grs Vs,"Visible oil or grease, significant trace: Present/Not found (1/0)"
+182,666,Asulam,Thiocyanate as CNS
+183,711,FlowTot Dy16,Hexachlorodibenzofuran : Sum of Isomers
+184,714,B-[ghi]-pery,"Benzo(g,h,i)Perylene"
+185,715,S Bifidobact,Bifidobacterium : Total
+186,720,PrONAZOLEd,Dimethanoate
+187,723,Trifluralin,Diazinon
+188,724,Anthophyllit,Sulphide : Dry Wt
+189,729,Chlorophyl-A,Monuron
+190,731,B-[b]-fluora,Odour : Phenolic
+191,733,B-[k]-fluora,Benzo(b)Fluoranthene
+192,736,Fluoranthene,Fluoranthene
+193,737,AlklntyCaCO3,Alkalinity as CaCO3
+194,738,Methanal,Suite Indicator : M
+195,739,PV N/80 4Hrs,"Equiv.Carbon No >35-44, Aromatic Fraction"
+196,740,,
+197,742,Cols 7Dy@22C,2-Butanol :- {Butan-2-ol}
+198,746,Ind123pyrene,"Indeno(1,2,3-cd)pyrene"
+199,749,Phenols Mono,Parathion-methyl
+200,753,PCBs,Weather : Sunshine : Coded
+201,758,F+IV phage,Phage : F+ Type IV Bacteriophage
+202,759,,
+203,763,C6-10 DW,"Hardness, Total as Ca"
+204,766,SI-EC-PCP,"Chemical Oxygen Demand, Filtered :- {COD}"
+205,768,Fluorene DW,Nitrogen : Dry Wt % as N
+206,772,B-(a)-anthra,"Silver, Dissolved"
+207,775,,
+208,777,Oxygen % v/v,Acetic acid :- {Ethanoic acid}
+209,780,,
+210,781,OPEs,isobutanol :- {2-Methylpropanol}
+211,782,DIMETHYLPHTH,4-Bromophenyl phenyl ether
+212,783,GSF30.3-23.7,Grain Size Fraction : 23.7 to 18.5 microns
+213,788,Total HpCDD,Organo Halogens : Total
+214,790,PFtetdncAcDW,Perfluorononanoic acid : Dry Wt
+215,810,Sulphur DWt,PCB - 099 : Dry Wt
+216,828,,
+217,829,,
+218,831,C>7-8 Ali,"Equiv.Carbon No >6-7, Aromatic Fraction"
+219,911,Demeton-S,"1,3-Butylene glycol :- {Butan-1,3-diol}"
+220,912,C>35-40 Aro,"Equiv.Carbon No >20-30, Aromatic Fraction"
+221,915,ATRAZ+SIMAZ,p-Nonylphenol Triethoxylate (isomer mix)
+222,932,NP12EO,4-Nonylphenol hexexthoxylate
+223,933,SI-G2,"1-Chloro-2,4-dinitrobenzene"
+224,934,C>6-7 Aro,Colony count : 3 Days at 22C : Aerobic
+225,938,C - Org DWt,2-Acetylthiophene
+226,939,HCH Beta DWt,Ethylene thiourea
+227,940,SI-LIST2E,UV Scan : Absorbance Max 2
+228,947,Chlorophylls,Hexachlorobutadiene
+229,948,"2,3,4,6 -TCP",Metals : Total ( Cr Cu Ni Pb )
+230,950,SulcofuronNa,Bacteroides HF183 primer
+231,979,SecButylbenz,4-Isopropyltoluene :- {4-methyl-Isopropylbenzene}
+232,1002,COPA,Tetrachloroethylene :- {Perchloroethylene}
+233,1012,Diazinon DWt,"Mercury, Leachable"
+234,1013,,
+235,1020,HexanoicAcid,Suite Indicator : EC-HCH
+236,1022,,
+237,1023,GSF23.7-18.5,N-Ethyl-N-(2-hydroxyethyl)perfluorooctanesulfonamide
+238,1024,HydrocrbnsPA,Hexanoic acid
+239,1025,,
+240,1031,CrCuNiPb,"2,3,4,7,8-Pentachlorodibenzofuran"
+241,1033,,
+242,1042,Pyridine,Colony count : 7 Days at 22C : Aerobic
+243,1046,StrepF,Chrysene : Dry Wt
+244,1049,Carbon Tet,Carbon tetrachloride :- {Tetrachloromethane}
+245,1065,Butan-2-ol,Hydrocarbons : Total
+246,1066,TitaniumFilt,Asulam
+247,1068,PCB 153 DW,PCB - 153 : Dry Wt
+248,1069,PCB 180 DW,PCB - 180 : Dry Wt
+249,1075,"1-CHLORO-2,4",Dimethoxymethane :- {Dimethoxylmethane}
+250,1076,BglobigiiTtr,Clostridium perfringens : Confirmed : MF
+251,1077,TriPhenP DW,"Selenium, Leachable : Dry Wt"
+252,1079,AmoniaLLFilt,Hexabromocyclododecane -alpha : Dry Wt
+253,1080,Amonia-N DWt,Suite Indicator : EC-SW3
+254,1085,Pentachlrphl,Dichlorvos
+255,1088,Cols 5Dy@22C,Ammonium : In Situ as NH4
+256,1093,SI-EC-N,"Phaeophytin, Acetone Extract"
+257,1101,1234678HpCDF,pH : Solid sample
+258,1105,SI-EC-SW3,"2,3-Dichloroaniline :- {2,3-Dichlorobenzamine}"
+259,1107,ChlorofrmDWt,"2,2,4,4,6-Pentabromodiphenyl ether : Dry Wt :- {PBDE 100}"
+260,1109,Dtgt Cat BAC,"Detergents, Cationic as Benzalkonium Chloride"
+261,1110,GSF7.8-15.59,Grain Size Fraction : 7.8 to 15.59 microns
+262,1112,DEHA,Grain Size Fraction : 15.6 to 31.99 microns
+263,1113,Se LeachDW,"HCH : Total (Alpha, Gamma)"
+264,1114,PCB 49DW,UV Scan : Report Number
+265,1115,EtFOSA,8:2 Fluorotelomer sulfonic acid
+266,1118,Fenthion,Phenol
+267,1119,ParathionMyl,Chlorotoluron
+268,1120,Cyfluthrin,Pentachlorobenzene
+269,1123,,
+270,1153,Fenpropimrph,Pirimiphos-ethyl
+271,1158,C>10-12 Arom,Organo Tin : Total as Sn
+272,1164,MethDiAnilin,Diphenylamine
+273,1173,Chloroprophm,"3,4-Dimethylphenol :- {3,4-Xylenol}"
+274,1177,NO3 DW,Carbon : Dry Wt
+275,1181,WethPresTemp,Weather : Temperature
+276,1183,WethPresPrec,Weather : Precipitation
+277,1188,Tot DDTs dw,Heptachlor epoxide : Dry Wt
+278,1193,TotDepthIn-s,"1,1,1,2-Tetrachloroethane"
+279,1198,12Dibromethn,Light extinction Coefficient
+280,1200,Chlrdn-cs/Z/,Suite Indicator : E
+281,1201,MBT Cation,Catellicoccus Marker : Seabird Copy Number
+282,1254,,
+283,1422,,
+284,1724,GF15.6-31.99,Grain Size Fraction : < 3.9 microns
+285,2323,HCHs ABG dw,Bromine Free : In Situ
+286,2325,NP9EO,"Sewage debris, Strandline to waters edge : Scale 0-3"
+287,2328,Orthphspht-P,PBDE (EQSD) Total
+288,2330,Carbon DWt%,Matter rejected from analysis
+289,2331,Tot Coli CMF,"Coliforms, Total : Confirmed : MF"
+290,2345,aCypermethDW,Fenitrothion : Dry Wt
+291,2347,PhenthC1sDWt,Alkyl Chrysenes/Benzo(a)Anthracenes : C1 : Dry Wt
+292,2348,E.coli C-MF,"Coliforms, Total : Presumptive : MF"
+293,2353,3NAniline,"Carbon, Organic, Filtered as C :- {TOC}"
+294,2355,E.coli PMF,Clostridium : Sulphite reducing : Presumptive : MF
+295,2364,Cu DW  <63,"Lead, < 63 um : Dry Wt"
+296,2546,Mn DGT,Permethrin : Dry Wt
+297,2548,FlowRate Max,Alpha-Cypermethrin : Dry Wt :- {Cypermethrin-alpha}
+298,2550,ProptmphsDWT,Parathion-methyl : Dry Wt
+299,2551,StrepF C-MF,Streptococci : Faecal : Confirmed : MF
+300,2896,"Butan1,4Diol",Chlorine Free as Cl2
+301,2921,PFEESA,Perfluorododecane sulfonic acid
+302,2922,PFMOPrA,GCMS Scan : Organic : Semi quantitative
+303,2923,ODOUR 3xDF,Paclobutrazole
+304,2924,Buprofezin,Fomesafen
+305,2925,Paraquat,Ionic Balance: Dissolved
+306,2926,Paclobutrazl,Propachlor
+307,2939,AnthracenDWt,Fluoranthene : Dry Wt
+308,2942,GCMS Semi-Q,2-(N-Ethylperfluorooctanesulfonamido)acetic acid (B)
+309,2943,Sb DISS,Perfluorohexanesulfonic acid (B)
+310,2944,7:3 FTCA,Fluazifop-butyl
+311,2953,ADONA,Perfluorotridecanoic acid
+312,2955,PAHs,Tri-allate
+313,2956,a-HBCDD DW,Noctiluca : Bloom algae
+314,2957,TRIALLATE,Heptachlor epoxide (cis- and trans-)
+315,2958,Mo Diss,"Molybdenum, Dissolved"
+316,2959,PBDE 66,"2,2,3,4,4-Pentabromodiphenyl ether :- {PBDE 85}"
+317,2960,"2,4-D esters","2,2,3,4,4,5-Hexabromodiphenyl ether :- {PBDE 138}"
+318,2961,PFHpS,Hexafluoropropylene oxide dimer acid (Gen X)
+319,2962,PFODA,9-chlorohexadecafluoro-3-oxanonane-1-sulfonic acid
+320,2963,PFecHS,2-(N-Ethylperfluorooctanesulfonamido)acetic acid (L)
+321,2964,Hexaconazole,Perfluorobutanesulfonic acid
+322,2965,PFHxS-L,N-methylperfluorooctanesulfonamide
+323,2966,Mean MhyFlow,Zinc : Total weekly load
+324,2967,PFDS,11-chloroeicosafluoro-3-oxaundecane-1-sulfonic acid (F-53B Minor)
+325,2968,3:3 FTCA,Methyl-iso-Butyl-Ketone :- {4-Methylpentan-2-one}
+326,2969,5:3 FTCA,Hexaconazole
+327,2970,PFPeS,Perfluoroheptanesulfonic acid
+328,2972,PFTrDA,Perfluorobutanoic acid
+329,2973,PFBA,Perfluorohexanesulfonic acid (L)
+330,2975,FBSA,Perfluorononanesulfonic acid
+331,2976,SewDeb WtrE,"Sanitary towels, Strandline : Scale 0-3"
+332,2977,PFNS,Perfluorooctanesulfonamide
+333,2978,SewOdor Btwn,4-Nonylphenol pentadecaexthoxylate
+334,2980,Fenpropi DW,Flow : Total daily : Day 16
+335,2981,PFBS,Perfluorobutylsulfonamide (perfluorobutane sulfonamide)
+336,2982,EtFOSAA-L,Perfluorooctadecanoic acid
+337,2983,PFHxSA,4:2 Fluorotelomer sulfonic acid
+338,2984,N-MeFOSA,Perfluorohexanesulfonamide
+339,2987,MeFOSAA-L,6:2 Fluorotelomer sulfonic acid
+340,2988,Fluazifopbut,"4,8-Dioxa-3H-perfluorononanoic acid (ADONA)"
+341,2989,EtFOSAA-B,"2H,2H,3H,3H-Perfluorooctanoic acid"
+342,2990,HFPO-DA,N-Ethylperfluorooctanesulfonamide
+343,2991,11Cl-PF3OUdS,Perfluoro-4-ethylcyclohexanesulfonic acid
+344,2993,PFUnDS,Perfluoropentanesulfonic acid
+345,2995,TetBT Cation,Perfluorodecanesulfonic acid
+346,3000,9Cl-PF3ONS,Tributyl Tin
+347,3001,Simazine,Turbidity : In Situ
+348,3002,Atrazine,"Sodium, Dissolved"
+349,3004,PCB Con 035,Eulan
+350,3007,Cyanazine,"Coliforms, Faecal : MF : Analysis in 10 Hours"
+351,3009,Terbutryne,Chlorophyll a
+352,3017,Cloud Cover,Action Taken
+353,3018,Beaufort Scl,Isodrin
+354,3019,Num Bathers,Number of bathers
+355,3020,SeaColour cf,Fluroxypyr
+356,3021,Mineral Oils,Bathing Water Profile : Dead Marine Life
+357,3022,Lasting foam,Suite Indicator : GQA
+358,3023,PhenolicOdor,Weather : Cloud Cover
+359,3024,SeaWaves 1-6,State of sea : Measurement of waves Scale 0-6
+360,3025,Vis Polluton,Azinphos-methyl
+361,3026,WethYdy Temp,Chloroform :- {Trichloromethane}
+362,3027,WethTdy 1-6,DDT -pp
+363,3028,Salinty Cond,"Detergents, Non-ionic"
+364,3030,Visit-NoBott,Phaeophytin A and B
+365,3064,Enterovirus,Perfluoro(4-methoxybutanoic) acid
+366,3067,PAH dry wt,"1,1-Dichloropropylene : Dry Wt :- {1,1-Dichloropropene}"
+367,3069,OrganoTinCom,Decabromodiphenyl ether : Dry Wt :- {PBDE 209}
+368,3070,GSF>1000,"Sulphate, HCL Extract MAFF 427/70"
+369,3075,Xylenes,Chloroethane : Dry Wt :- {Ethyl Chloride}
+370,3077,Cd Std Leach,"2,2,4,4-Tetrabromodiphenyl ether : Dry Wt :- {PBDE 47}"
+371,3078,mp-XyleneDW,"1,3-Dichloropropylene (cis- and trans-) : Dry Wt"
+372,3086,Methiocarb,Carbofuran
+373,3087,,
+374,3091,,
+375,3095,F Leach24,3+4 Methylphenol : {m- + p- Cresol}
+376,3096,Rhodamine-B,Rhodamine B
+377,3106,GCMS S-Vol,"1,4-Dichlorobenzene"
+378,3113,Site Number,"Optical Density at 750 nm, Filtered"
+379,3116,SeabirdCatCN,Odour : 3x Dilution Factor
+380,3117,Isoproturon,"Vanadium, Dissolved"
+381,3118,Ni BLM Bio,Linuron
+382,3119,EthylAcetate,Diclobutrazol
+383,3120,SeabirdCatel,Environmental DNA Filtration
+384,3122,C>16-24,"Equiv.Carbon No >35-44, Aliphatic Fraction"
+385,3123,C>10-16,Equiv.Carbon No >16-35
+386,3124,4Chlorotolun,PCB - 170
+387,3126,MST Report,Dibutyl Tin as Cation
+388,3127,B. globigii,Ethofumesate
+389,3130,Metoxuron,Chlorobenzene
+390,3138,4chlortoluen,"1,3-Dichloropropane : Dry Wt"
+391,3139,"1,2DiBrEthan","trans-1,2-Dichloroethylene : Dry Wt"
+392,3140,"1,1,2 TCE","1,1,2-Trichloroethane : Dry Wt"
+393,3143,DibzthC2 DWt,Dibenzothiophenes : C2 : Dry Wt
+394,3146,DibzthC1 DWt,Dibenzothiophenes : C1 : Dry Wt
+395,3149,ChryseC1 DW,Naphthalenes : C3 : Dry Wt
+396,3152,DibenzthpDWt,DibenzoThiophene : Dry Wt
+397,3155,Cypermeth WW,"Benzo(b)Anthracene : Dry Wt :- {2,3-Benzanthracene}"
+398,3158,FluoraC1 DW,Phenanthrenes : C1 : Dry Wt
+399,3161,C3Naph DW,Phenanthrenes : C2 : Dry Wt
+400,3164,Chromium -Cr,Nickel
+401,3169,pH in-situ,"2,4-Dichlorophenol"
+402,3170,Cond - Field,Chloroxuron
+403,3204,Azobenzene,Sample Analysis : Text Report
+404,3206,TON Lch DW,Pseudomonas aeruginosa : Presumptive : MF
+405,3211,DnOcPhthalte,Dimethyl phthalate
+406,3214,Pb Std Leach,"Cyanide : Total, Leachable as CN"
+407,3216,WCCrDNA Copy,Phenols : Monohydric : Dry Wt
+408,3224,LAS,Propazine : Dry Wt
+409,3226,CN Free UDWt,Orthophosphate
+410,3229,GCMS SV Add2,"Mercury, < 63 um : Dry Wt"
+411,3234,GCMS SV Add3,UV Scan : Absorbance Max 1
+412,3237,Cond 20C lea,Strontium : Dry Wt
+413,3239,Hg  DW <63,Propachlor : Dry Wt
+414,3242,Sn - Dry Wt,Tin : Dry Wt
+415,3244,GCMS SV Add1,"1,2-Dimethylbenzene : Dry Wt :- {o-Xylene}"
+416,3249,DiBrClmethan,Ankistrodesmus
+417,3251,EColi HH2,Carbamazepine
+418,3253,DDT (PP')DWt,Time Weighted Averages : PSD
+419,3257,p-Toluidine,Equiv.Carbon No >6-10
+420,3258,NO2 Lch DW,Suite Indicator : SHELL
+421,3260,SigCrDNAP:NF,Tecnazene : Dry Wt
+422,3262,,3-Chlorotoluene : Dry Wt :- {1-Chloro-3-methylbenzene}
+423,3263,Dem-S-Me DW,Vinclozolin : Dry Wt
+424,3267,Type of Flow,Streptococci : Faecal : Presumptive : MF
+425,3268,"1,1,1-TCA",Weather : Wind Speed : Beaufort Scale
+426,3269,Aminomethylp,"2,4-D Iso Propyl Ester"
+427,3272,12-DCA,"1,2-Dichloroethane"
+428,3275,Flow Tot Dly,Vanadium : Dry Wt
+429,3278,,
+430,3282,BROMO-DCM,Contraceptives/Tampon applicators
+431,3283,Bromoform,"Animal faeces, Strandline"
+432,3290,Chlorobenzen,Fluorene
+433,3292,Chlordbrmthn,Bromodichloromethane
+434,3299,DiClMe,PCB : Total
+435,3305,C>21-35,"Microtox, 5 Minutes : EC50"
+436,3314,Fluoride Dis,Perfluoroundecane sulfonic acid
+437,3328,TetClEthene,Pentachlorophenol
+438,3334,Trichloroeth,Vanadium
+439,3340,B-[ghi]-pDWt,"Benzo(g,h,i)Perylene : Dry Wt"
+440,3341,p-C-o-Cresol,Chloridazon
+441,3342,4Cl3MePhenol,Chlorophyll a : HPLC
+442,3343,Tin - as Sn,"Hexabromocyclododecane Total: (Sum of a, b, g)"
+443,3344,Hg Std Leach,"Ammoniacal Nitrogen, Leachable as N"
+444,3346,PentanoicAcd,"Equiv.Carbon No >6-7, Aliphatic Fraction"
+445,3354,NP15EO,"Intact human faeces, Strandline to waters edge"
+446,3363,CHRYSOTILE,"Conductivity at 20 C, Leachable"
+447,3372,HBCDD,Trietazine
+448,3373,Chloroform,Dieldrin
+449,3377,4-nonPhenol,Lead : BLM Bioavailable
+450,3386,4-Methyl Pen,Perfluoro-3-methoxypropanoic acid
+451,3399,Chloroxuran,Chlorodibromomethane
+452,3400,Monuron,Heptachlor
+453,3401,ICP-MS Semiq,2-Chloro-4-nitrotoluene
+454,3408,Zn- Filtered,Copper
+455,3409,Cr- Filtered,"Iron, Dissolved"
+456,3410,Ni- Filtered,"Nickel, Dissolved"
+457,3413,1234678CF-TE,"1,2,3,4,7,8,9-Heptachlorodibenzofuran - ITEQ Upper Bound"
+458,3421,Lead DGT,Magnesium : Dry Wt
+459,3428,Water Depth,Weather : Scale 1-6
+460,3435,Total PeCDF,Flow : Monthly mean
+461,3441,,
+462,3448,Ti - Partic,"Ammoniacal Nitrogen, Filtered : Low level as N"
+463,3449,PHENMEDIPHAM,Perfluorooctanoic acid : Dry Wt
+464,3454,Hg - Partic,Ammonia Unionised : Saline as N
+465,3455,,
+466,3456,cHeptClEpxDW,Ethylbenzene : Dry Wt
+467,3458,ColfmF Conf,"Coliforms, Faecal : Confirmed"
+468,3459,PCB 156 DW,Streptococci : Faecal : Presumptive : MPN
+469,3460,StrepF PMPN,Boron : Dry Wt
+470,3461,F Coli Pre,"Zinc, Dissolved"
+471,3462,C>35-40,Permanganate Value N/80 4 Hours
+472,3463,C>21-35Ali,Equiv.Carbon No >12-16
+473,3472,Bac All,Dichlorobenzophenone
+474,3475,Carbendazim,Anthracene
+475,3478,OptDens@500F,Alachlor
+476,3488,,
+477,3493,UVscan WvMx2,"1,3,5-Trimethylbenzene : Dry Wt :- {Mesitylene}"
+478,3494,UVscan WvMx1,"1,2-Dichloropropane : Dry Wt"
+479,3495,PCB 81DW,Perylene : Dry Wt
+480,3496,MonOctSn DW,PAH : Total : Dry Wt :- {Polynuclear Aromatic Hydrocarbons}
+481,3525,C>35-44,Bacteroidetes Marker : Horse
+482,3527,HCH Drvd,Acetone :- {Propanone}
+483,3532,PFdodencAcDW,Perfluorooctylsulphonate anion : Dry Wt
+484,3533,Bromobenzene,Bromochloromethane
+485,3537,Metalaxyl,LCMS Screen : Semi Quantitative
+486,3538,12378PCDD-TE,Alkalinity to pH 4.5 as HCO3
+487,3541,3+4MePhenol,Coliforms : Presumptive : MPN
+488,3544,Sulfide Lch,Bacillus globigii : MF : Wet Wt
+489,3545,"2,4-D",Malathion
+490,3546,245-T,2-Methylphenol :- {o-Cresol}
+491,3547,4-CAA,Appearance of liquid : Secondary Colour
+492,3548,MCPA,Salinity
+493,3549,Mecoprop,PCB - 028
+494,3550,Dicamba,Escherichia coli : Presumptive : MF
+495,3551,Dichlorprop,Bentazone
+496,3552,Fenoprop,4-tert-Octylphenol :- {p-tert-Octylphenol}
+497,3553,Xylenols,Tetrachlorodibenzofuran : Sum of Isomers
+498,3555,Triclopyr,Fenuron
+499,3556,NP8EO,4-Nonylphenol tridecaexthoxylate
+500,3557,12DCET_DRY,"1,1-Dichloroethylene : Dry Wt :- {1,1-Dichloroethene}"
+501,3569,DtgrtCat,Suite Indicator : EC-CD
+502,3570,PBDE 100 DW,"HCH : Total (Alpha, Beta, Gamma, Delta)"
+503,3632,Linuron,Warning Sign - Short Term Bathing Water Pollution
+504,3635,GSF 2000-500,Grain Size Fraction : 160 to 112 microns
+505,3636,GSF <2000um,Grain Size Fraction : 39 to 30.3 microns
+506,3637,GSF 9.1-7.2,Grain Size Fraction : 64 to 50 microns
+507,3638,GSF 261-160,Grain Size Fraction : 18.5 to 14.5 microns
+508,3639,MeFOSE,Streptococci : Faecal : Confirmed : MPN
+509,3640,GSF 250-499,Grain Size Fraction : 62.5 to 124 microns
+510,3641,GSF 39-30.3,Grain Size : 50.2 to 39.0 microns
+511,3642,Thiabendazol,Grain Size Fraction : 84 to 64 microns
+512,3643,GSF 50.2-39,N-Methyl-N-(2-hydroxyethyl)perfluorooctanesulfonamide
+513,3644,GSF 64-50,Grain Size Fraction : 564 to 261 microns
+514,3645,GSF 112-84,Grain Size Fraction : 2000 to 500 microns
+515,3646,GSF 84-64,Grain Size Fraction : 261 to 160 microns
+516,3656,"Ethan1,2diol",Alpha-Cypermethrin :- {Cypermethrin-alpha}
+517,3664,C>8-10 AroDW,Thalassiosira : Bloom algae
+518,3680,Rest Level,"Borehole : Water level, at rest"
+519,3681,Solids @105C,Residual mass: after drying at 105 C
+520,3682,T Bifidobact,Bifidobacterium : Sorbitol Fermenters
+521,3683,N Inorganic,"Nitrogen, Total Inorganic : (Calculated)"
+522,3695,t-DothlDry,"1,4-Dimethylbenzene :- {p-Xylene}"
+523,3700,Transpcy Vis,Barium
+524,3703,Glyphosate,Chlorotoluene : Total Isomers (2- 3- 4-)
+525,3722,IE Pres,Chromium
+526,3723,IE Conf,Enterococci: Intestinal: Confirmed: MF
+527,3724,Beach Sign,MCPA :- {4-Chloro-2-methylphenoxyacetic acid}
+528,3742,Hydrazine -N,Equiv.Carbon No >8-10 : Dry Wt
+529,3743,WCCrDNA P:NF,trans-Chlordane : Dry Wt
+530,3745,Chlrdn-trDWt,cis-Chlordane : Dry Wt
+531,3758,TBT,"WQMS : Batttery voltage, positive"
+532,3778,Urea as N,Phage : F+ Type II/III Bacteriophage
+533,3779,C>12-16 Alip,"Beryllium, Dissolved"
+534,3781,Benzene,Fluoride
+535,3783,PFhexncAcid,Perfluorononanoic acid
+536,3784,Toluene,Triazophos
+537,3788,Carbazole,Carbazole
+538,3789,Cattle Mito,Flow : Daily mean
+539,3790,MCPB,TDE -op
+540,3791,"2,4-DB","Barium, Dissolved"
+541,3792,Benazolin,Silver
+542,3794,COD Filt-asO,"Microtox, 15 Minutes : EC50 Upper 95% confidence limit"
+543,3798,ChlorineSite,Aldrin : Dry Wt
+544,3800,DDT (OP')DWt,"1,2,3-Trichlorobenzene : Dry Wt"
+545,3804,Palladium,Di(2-ethylhexyl) adipate
+546,3806,DOC Leach,White-clawed crayfish (Austropotamobius pallipes) DNA copy number
+547,3807,p-Xylene,"Equiv.Carbon No >5-7, Aromatic Fraction : Dry Wt"
+548,3808,Nemoura Sp.,Equiv.carbo No >5-10 : Dry Wt
+549,3811,Diuron,2-Chlorophenol
+550,3812,PBDE 85,Perfluorooctanesulfonic acid (branched)
+551,3813,,
+552,3816,PFOS (L),"Propylene Glycol :- {1,2-Propandiol}"
+553,3817,PFOS (B),Mitochondrial Marker : Human copy number
+554,3818,TAME,Ethyl tert-butyl ether :- {ETBE}
+555,3819,Imazapyr,Cyclohexyl Tin as Cation
+556,3820,BW: Plastics,Omethoate
+557,3829,Flusilazol,m-Toluidine :- {3-Methylaniline}
+558,3830,Iodide Ion,Aniline :- {Aminobenzene}
+559,3832,DtrgtAnc-MOT,1-Chloro-3-nitrobenzene :- {m-Chloronitrobenzene}
+560,3837,SI-E,Tralkoxydim
+561,3838,Vinyl Cl DW,"Phosphorus, Total"
+562,3840,123478HxCDFd,"2,3,4,7,8-Pentachlorodibenzofuran : Dry Wt"
+563,3841,ChryseC2 DW,Hexachlorobenzene : Dry Wt
+564,3842,Fenthion DWt,Azinphos-ethyl : Dry Wt
+565,3852,F+ColiphgPFU,Nitrobenzene
+566,3854,Demeton Tot,"Hydrocarbons, UV Fluorescence : SWAD"
+567,3863,Erythromycin,Diclofenac
+568,3867,"1,1-Dichloro",Tetraphenyl Tin as Cation
+569,3878,Diazinon,Nickel : BLM Bioavailable
+570,3891,Ni Std Leach,"Fluoride, Leachable"
+571,3892,NH3 Leach,"Chloride, Leachable"
+572,3894,SULPHIDE DW,GCMS Scan : Semi Volatile Screen : Additional 1
+573,3899,Boron Leach,"1,2-Dichloro-3-nitrobenzene :- {2,3-Dichloronitrobenzene}"
+574,3901,,
+575,3904,ChlorophyllB,"HCH : Total (Alpha, Beta, Gamma)"
+576,3905,Phaeophytn-B,No flow /No sample
+577,3906,Phaeophytn-A,Phaeophytin A
+578,3908,C>20-30 Ali,"Equiv.Carbon No >35-40, Aliphatic Fraction"
+579,3911,,
+580,3912,TOLUENE DW,PCB - 156 : Dry Wt
+581,3914,GAS BALANCE,Pendimethalin : Dry Wt
+582,3915,Sld Filt@105,"Mercury, Particulate"
+583,3918,HCHAlpha DWt,Particle Diameter : Median
+584,3921,Solid Matter,"Equiv.Carbon No >10-44, Aliphatic Fraction"
+585,3925,ColourChange,Monolinuron
+586,3932,NP13EO,4-Nonylphenol undecaexthoxylate
+587,3941,Cols 3Dy@22C,Bacillus globigii : Titration
+588,3951,phi 2.0-2.5,Phosphate : Qualitative
+589,3952,PO4(QA),"Trichlorobenzene : Total (123-, 124-, 135-) : LOD as 1/2"
+590,3953,PCB 167DW,Suite Indicator : RED
+591,3954,PigMito CN,Mitochondrial Marker : Pig
+592,3956,PCB 51DW,Eulan : Dry Wt
+593,3957,"2,3,5,6 TETR",Ammoniacal Nitrogen : In Situ
+594,3958,PCB 149,Mitochondrial Marker : Pig copy number
+595,3959,Acetone,Amoxicillin
+596,3960,Endosul-Tot,Sodium adsorption ratio
+597,3962,Demeton Stot,Drins : Total (Derived)
+598,3963,C>16-21Ali,Benzyl butyl phthalate
+599,3965,C>20-44,Equiv.Carbon No >35-40
+600,3966,NP14EO,Nonylphenol ethoxylates (1-15EO)
+601,3970,Phenols (4A),Vinclozolin
+602,3971,Lcyhal DW,Weather : Temperature Wet Bulb
+603,3976,Turbdty in-s,Triphenyl Tin as Cation
+604,3983,White Spirit,White Spirit
+605,3984,PCB 028+031,"1,2,3,4,6,7,8-Heptachlorodibenzo-p-dioxin - ITEQ Upper Bound"
+606,3993,Cr Std Leach,3 + 4 Nitroaniline
+607,3994,METHYL METHA,Endosulfan B : Dry Wt
+608,3995,pH leachate,DDE -op : Dry Wt
+609,3996,EtBenzene DW,Trifluralin : Dry Wt
+610,3997,DDE (OP')DWt,cis-Heptachlor epoxide : Dry Wt
+611,3998,TriflurlinDW,Endosulfan A : Dry Wt
+612,4005,Met Grp 41,"Zinc, < 63 um : Dry Wt"
+613,4006,Sb - Dry Wt,"Preparation : Organics, Sieved <63 um"
+614,4007,Pb DW <63,Metals : Total ( Cd Cr Cu Ni Pb )
+615,4008,Cyanide DWt,Cyanide : Total : Dry Wt as CN
+616,4009,PFhexncAcDW,Perfluorohexanoic acid : Dry Wt
+617,4010,Human Mito,Odour : Dilution factor
+618,4011,OP2EO,"Copper, Leachable"
+619,4012,CdCrCuNiPb,Metals : Total ( Cr Ni Pb ) : Group 44
+620,4013,Pendimet DW,Manganese : DGT extract {Diffuse Gradient Thin Film Device}
+621,4015,SI-SHELL,"Orthophosphate, Leachable : Dry Wt"
+622,4016,OP1EO,Residual mass : after drying at 450 C
+623,4017,Chrysene DWt,Nitrite as NO2
+624,4018,Thalassiosir,Equiv.Carbon No  >5-44 : (TPH) : Screen : Dry Wt
+625,4019,Microx15>95%,Grain Size Fraction : 3.9 to 7.79 microns
+626,4020,DiBrEthane,"Equiv.Carbon No >7-8, Aromatic Fraction : Dry Wt"
+627,4023,DrySolids30C,Flumethrin : Dry Wt
+628,4024,"2,3Benz dw",Alkyl Chrysenes/Benzo(a)Anthracenes : C2 : Dry Wt
+629,4025,HCB DRY WT,Manganese : Dry Wt
+630,4027,Cerium,Fluorescein
+631,4030,Flumeth WW,Cyfluthrin : Dry Wt
+632,4031,Chlorotolurn,"Nickel, Leachable"
+633,4032,Dets-NaLaSO4,"Zinc, Leachable"
+634,4049,14Dichlrbnzn,"1,3-Dichlorobenzene"
+635,4061,Cyanide Simp,"HCH : Total (Alpha, Beta, Gamma) : Dry Wt"
+636,4062,"1,3DiClPrDW",Triphenylphosphine : Dry Wt
+637,4063,HEMPA,"Alkalinity, Dissolved as CaCO3"
+638,4064,Fluoroxypyr,Demeton-S-methyl
+639,4065,Bentazone,"2,4-DB :- {4-(2,4-dichlorophenoxy)butyric acid}"
+640,4068,SO4 of Extr,"Fluoride, Extractable : Dry Wt"
+641,4084,"2,4-D ipe",Heptachlor epoxide
+642,4111,Phaeo Acetn,"Microtox, 5 Minutes : EC50 Lower 95% confidence limit"
+643,4112,Hdss Tot- Ca,Gold
+644,4117,Ethylbenzene,Methabenzthiazuron
+645,4120,123789-HxCDD,24 hour Oyster Embryo-Larval Development
+646,4127,14NBenzene,"Trichlorobenzene : Total (123-, 124-, 135-) : Dry Wt"
+647,4128,TriazinsCalc,Polyvinyl Alcohol
+648,4129,PolyvinylAlc,GLC Scan : ID
+649,4130,NonPhe2EthOx,Nonylphenol-1-ethoxylate
+650,4132,pH Sld Smpl,Site Inspection : Pass/Fail (1/0)
+651,4133,Lithium DWt,Sample Preparation
+652,4134,1234789HpCDF,HCH -delta : Dry Wt
+653,4135,Chlordane,COSHH Assessment : Solvents
+654,4136,123678-HxCDD,"Colour at 400 nm, Filtered 0.45 um"
+655,4142,Clost C-MF,4-Nonylphenol decaexthoxylate
+656,4143,StrepF C-MPN,Pesticides : Total (EC-SW)
+657,4144,Dimethxymthn,Bacteroides HF183 primer : Report
+658,4145,N - % DWt,"Microtox, 15 Minutes : EC50 Lower 95% confidence limit"
+659,4146,Ca:Mg Ratio,"Microtox, 5 Minutes : EC50 Upper 95% confidence limit"
+660,4147,C>20-40 Aro,"Equiv.Carbon No >24-40, Aliphatic Fraction"
+661,4182,CarbonTetDWt,Bromobenzene : Dry Wt
+662,4201,Lithium Filt,"2,4,6-Trichlorophenol"
+663,4329,12378PCDF-TE,Pseudomonas aeruginosa : Confirmed : MF
+664,4330,123678CBD-TE,"2,3,7,8-Tetrachlorodibenzofuran"
+665,4337,NP7EO,4-Nonylphenol heptexthoxylate
+666,4339,C>10-35,Equiv.Carbon No >24-40
+667,4340,Cd - Dry Wt,Chlorine : Total Available
+668,4341,P Digested,"Equiv.Carbon No >16-35, Aliphatic Fraction"
+669,4342,ECSW 1/2LOD,BOD : 5 Day (0.5 mg/l ATU)
+670,4343,TetHydFuran,Cadmium : Dry Wt
+671,4344,C>16-35 Aro,"Absorbance at 400 nm, Unfiltered :- {Apparent Colour}"
+672,4345,C>35-44 Arom,"Triazines : Total (Atrazine,Simazine,Propazine,Prometryne)"
+673,4346,Chlorine,"Pesticides : Total (Gamma-HCH, Dieldrin, Parathion) : SWAD"
+674,4347,C>25-40,"Phosphorus, Digested"
+675,4348,C>30-40,Equiv.Carbon No >10-35
+676,4349,ApColU AB400,Equiv.Carbon No  >5-44 : (TPH) : Screen
+677,4350,C>10-44,Equiv.Carbon No >20-40
+678,4351,C>20-40,Equiv.Carbon No >16-24
+679,4352,Chlormequat,"Equiv.Carbon No >16-35, Aromatic Fraction"
+680,4353,C>16-35,Equiv.Carbon No >25-40
+681,4354,C>16-35 Alip,Chlormequat
+682,4355,BOD5Dy0.5ATU,Solid Matter
+683,4356,C>10-25,Equiv.Carbon No >10-25
+684,4357,C>35-44 Alip,Tetrahydrofuran :- {THF}
+685,4358,C>24-44,Equiv.Carbon No >24-44
+686,4359,Cu - Dry Wt,Acrylonitrile
+687,4360,Propan-1-ol,Acetonitrile :- {Methyl Cyanide}
+688,4361,Acetonitrile,Fluazinam
+689,4362,SI-LIST2X,Cyclohexanone
+690,4363,Cr - Dry Wt,Suite Indicator : LIST2X
+691,4364,2NOPHENOL,Malachite Green
+692,4365,2-CHLORO-4-A,2-Chloro-4-aminotoluene
+693,4366,NP3EO,Nonylphenol-2-ethoxylate
+694,4370,Cr Hexavalnt,GCMS Screen : Semi-Volatile Screen: Semi Quantitative
+695,4375,ACRYLONITRIL,Odour : Threshold Number at 40 C
+696,4385,TPH in DRO,"Hexachloro-1,3-cyclopentadiene"
+697,4386,BOD5 Day Set,Nitrogen : Dry Wt as N
+698,4387,4ClPhPhEther,2-Chloronapthalene
+699,4388,Isophorone,"2,6-Dinitrotoluene :- {2,6-DNT}"
+700,4406,DiBrMethane,"2,2-Dichloropropane : Dry Wt"
+701,4407,Propranolol,Oxytetracycline
+702,4408,Diclofenac,Propranolol
+703,4427,C>8-10,"Nitrogen, Total, Filtered"
+704,4428,C>25-40 Ali,"Equiv.Carbon No >10-35, Aliphatic Fraction"
+705,4429,C>10-35 Ali,"Equiv.Carbon No >25-40, Aliphatic Fraction"
+706,4430,C>24-44 Aro,"Equiv.Carbon No >25-40, Aromatic Fraction"
+707,4431,S CrReduce,2-Chloroaniline :- {2-Chlorobenzamine}
+708,4432,CL2 FREE,Equiv.Carbon No >8-10
+709,4433,C>10-24-Aro,Mercury : Dry Wt
+710,4434,C>10-20 Aro,Kresoxim-Methyl
+711,4435,KresoximMe,"Equiv.Carbon No >10-20, Aliphatic Fraction"
+712,4436,Ethanol,2-Nitrotoluene
+713,4437,C>25-40 Aro,"Equiv.Carbon No >10-25, Aromatic Fraction"
+714,4438,3Nitrotoluen,4-Nitrotoluene :- {4-Methylnitrobenzene}
+715,4439,C>30-40 Ali,Miscellaneous Identification
+716,4440,C>24-40 Aro,"Equiv.Carbon No >10-25, Aliphatic Fraction"
+717,4441,2Chloroaniln,1-Chloro-2-nitrobenzene :- {o-Chloronitrobenzene}
+718,4442,N Filtered,PAH : Total (WHO 6) :- {Polynuclear Aromatic Hydrocarbons}
+719,4443,C>10-44 Ali,"Equiv.Carbon No >20-30, Aliphatic Fraction"
+720,4444,C>24-44 Ali,"Equiv.Carbon No >10-35, Aromatic Fraction"
+721,4445,4Nitrotoluen,3-Nitrotoluene
+722,4446,C>24-40 Ali,"Equiv.Carbon No >30-40, Aliphatic Fraction"
+723,4447,C>35-40 Ali,"Equiv.Carbon No >30-40, Aromatic Fraction"
+724,4449,Dibenzfuran,Ethanol
+725,4450,Hg - Dry Wt,Dibenzofuran
+726,4451,C>10-20 Ali,Sulphur : chromium reducible
+727,4452,C>20-44 Aro,"Equiv.Carbon No >10-24, Aromatic Fraction"
+728,4453,3Chloroaniln,3-Chloroaniline :- {3-Chlorobenzamine}
+729,4454,C>10-25 Ali,"Equiv.Carbon No >24-44, Aliphatic Fraction"
+730,4455,2Nitrotoluen,Photo Taken: Yes/No (1/0)
+731,4456,M-Toluidine,1-Chloro-4-nitrobenzene :- {p-Chloronitrobenzene}
+732,4574,Phytoplankto,"Sulphate, Dissolved as SO4"
+733,4579,BIOLex,Algae : Total cell count
+734,4588,"1,2 DCP (dw)","1,2-Dichlorobenzene : Dry Wt"
+735,4590,PropazineDWT,"1,2,3,4,7,8,9-Heptachlorodibenzofuran : Dry Wt"
+736,4591,Sr - Dry Wt,"1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin : Dry Wt"
+737,4592,DeltaMethDW,"1,2,3,6,7,8-Hexachlorodibenzofuran : Dry Wt"
+738,4593,Ti - Dry Wt,"1,2,3,6,7,8-Hexachlorodibenzo-p-dioxin : Dry Wt"
+739,4594,S as SO4,Sulphur as SO4
+740,4595,Co - Dry Wt,"1,2,3,4,6,7,8-Heptachlorodibenzofuran : Dry Wt"
+741,4596,Exby PetEthr,Octachlorodibenzofuran : Dry Wt
+742,4597,Vinclozo DW,"2,3,4,6,7,8-Hexachlorodibenzofuran : Dry Wt"
+743,4598,hxClcPentdie,Cyanide : Free and loosely complexed as CN :- {Simple}
+744,4599,B(k)Flnth DW,"Dibenzo(a,h)Anthracene : Dry Wt"
+745,4600,OCDF DW,"1,2,3,4,7,8-Hexachlorodibenzo-p-dioxin : Dry Wt"
+746,4601,Nitrogen DWt,"Equiv.Carbon No >6-8, Aliphatic Fraction"
+747,4603,CTruAbs400F,Lithium : Dry Wt
+748,4617,State tide,Acrylamide
+749,4621,PBDE 28,"2,4,4-TriBromoDiphenylEther"
+750,4622,PCB - 047,"1,2,3,7,8-Pentachlorodibenzo-p-dioxin - ITEQ Upper Bound"
+751,4623,PCB - 049,"1,2,3,7,8-Pentachlorodibenzofuran - ITEQ Upper Bound"
+752,4625,123789CBF-TE,PCB - 051
+753,4626,Psud-a PMF,PCB - 049
+754,4627,12378-PeCDF,"2,3,7,8-Tetrachlorodibenzo-p-dioxin - ITEQ Upper Bound"
+755,4628,Sld V @400C,"2,3,4,7,8-Pentachlorodibenzofuran - ITEQ Upper Bound"
+756,4629,PCB - 051,"Solids, Volatile at 480 C"
+757,4630,12378-PeCDD,"1,2,3,4,7,8,9-Heptachlorodibenzofuran"
+758,4631,123678CBF-TE,PCB - 099
+759,4632,Se - Dry Wt,Selenium : Dry Wt
+760,4634,234678-HxCDF,"1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin"
+761,4635,123678-HxCDF,PCB - 123
+762,4636,123478-HxCDF,"1,2,3,6,7,8-Hexachlorodibenzofuran"
+763,4637,Salm C-MPN,"1,2,3,4,6,7,8-Heptachlordibenzo-p-dioxin"
+764,4638,"2,3,7,8-TCDF","1,2,3,4,7,8-Hexachlorodibenzo-p-dioxin - ITEQ Upper Bound"
+765,4639,Oxidant TotR,"1,2,3,6,7,8-Hexachlorodibenzo-p-dioxin - ITEQ Upper Bound"
+766,4753,SheepMito CN,Urea as N
+767,4754,C>10-12 Alip,"Equiv.Carbon No >12-16, Aromatic Fraction"
+768,4755,Flow MeanDly,Dioctyl Tin as Cation
+769,4770,,
+770,4783,PentchlrpDWt,Imazalil
+771,4790,,
+772,4797,,
+773,4798,,
+774,4799,,
+775,4800,,
+776,4820,Cypermethrin,Manganese : BLM Bioavailable
+777,4821,No of dogs,Copper : BLM Bioavailable
+778,4822,Zn BLM Bio,Propetamphos
+779,4823,BWP - A.B.,Bathing Water Profile : Algal Bloom
+780,4824,BWP - Ma,Bathing Water Profile : Macroalgae
+781,4825,BWP - O+T,Diuron
+782,4826,BWP - O.L.,Bathing Water Profile : Other Litter (incl. plastics)
+783,4827,BWP - A.F.,Bathing Water Profile : Animal Faeces
+784,4828,BWP - D.M.L.,Bathing Water Profile : Oil and Tar
+785,4836,,
+786,4854,Ibuprofen,"Iron, Loosely bound : Total"
+787,4861,AtPressure,Suite Indicator : LIST2E
+788,4862,F Ext DW,tert-Butyltoluene : Dry Wt
+789,4865,Vol Filtered,Aldrin
+790,4869,Avian Mito,"Solids, Suspended, non-volatile at 500 C"
+791,4870,"3,4 Xylenol","trans-1,2-Dichloroethylene :- {trans-1,2-Dichloroethene}"
+792,4871,"1,1,1,2 -TET",Chlorpropham
+793,4873,TDE (PP')DWt,DDE -pp : Dry Wt
+794,4875,Sulphur,TDE -pp : Dry Wt
+795,4876,PirimiphsMyl,Fenpropimorph
+796,4878,PCB 52 DW,PCB - 118 : Dry Wt
+797,4883,2378TCDD-ITE,"1,2,3,4,7,8-Hexachlorodibenzofuran"
+798,4884,OCDD-ITEQ UB,Octachlorodibenzofuran - ITEQ Upper Bound
+799,4885,123789CBD-TE,"Solids, Volatile at 400 C"
+800,4886,Report,Acrylic acid :- {Propenoic acid}
+801,4888,123478CBF-TE,"1,2,3,6,7,8-Hexachlorodibenzofuran - ITEQ Upper Bound"
+802,4889,OCDF-ITEQ UB,"1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin - ITEQ Upper Bound"
+803,4890,kpH4.5 HCO3,"2,3,4,6,7,8-Hexachlorodibenzofuran - ITEQ Upper Bound"
+804,4892,,
+805,4905,OptDens@460F,Molybdenum
+806,4906,Flumethrin,Atrazine-desisopropyl :- {Atrazine de-isopropyl}
+807,4907,Iprodione,Bacteroidetes Marker : All
+808,4908,GSF 7.2-5.8,Grain Size Fraction : 7.2 to 5.8 microns
+809,4909,GSF  160-112,Grain Size Fraction : < 5.8 microns
+810,4910,TEtLead,Suite Indicator : EC-PCP
+811,4911,TMeLead,Tetraethyl Lead
+812,4912,VolDisch m3,Volume discharged
+813,4913,B-[a]-pyrDWt,Benzo(a)Pyrene : Dry Wt
+814,4914,4MePentanoAc,3-Methylbutanoic acid :- {iso-Valeric acid}
+815,4924,Nitrate -NO3,"Equiv.Carbon No >8-10, Aromatic Fraction"
+816,4925,N Dis Inorg,Mecoprop
+817,4926,MST Filter,MST Filtration
+818,4927,DEHP DW,"1,2,4-Trimethylbenzene : Dry Wt"
+819,4929,Fenpropid,Grain Size Fraction : 112 to 84 microns
+820,4938,GSF <5.8 um,Grain Size Fraction : 30.3 to 23.7 microns
+821,4941,,Equiv.Carbon No >5-8 : Dry Wt
+822,4947,SerratiaPhge,"Demetons : Sum of (-S Me Sox, S, -O Me, -S Me, -S Me Sone)"
+823,4965,,
+824,4994,MR Screen,HCH -delta
+825,5000,Sld VSus@500,Chlorine Free : In Situ as Cl2
+826,5030,CNCOSHH,"1,4-Dichlorobenzene : Dry Wt"
+827,5031,SI-BT,Aminomethylphosphonic acid
+828,5033,Isodrin DWt,Fluorene : Dry Wt
+829,5037,SI-D,Monobutyl Tin as Cation
+830,5040,123478-HxCDD,Biological examination
+831,5041,C>10-40,Equiv.Carbon No >20-30
+832,5042,Azoxystrobin,"Optical Density at 650 nm, Filtered"
+833,5044,C>12-16,Equiv.Carbon No >10-12
+834,5045,C>16-21,Equiv.Carbon No >21-35
+835,5046,SI-LIST1,"Equiv.Carbon No >10-12, Aliphatic Fraction"
+836,5047,c12DClEthe,Azoxystrobin
+837,5048,BenzButPhtha,Equiv.Carbon No >16-21
+838,5049,Aminobenzene,Equiv.Carbon No >35-44
+839,5050,Bromide Ion,Transparency : Qualitative 1=Yes : 0=No
+840,5091,Nitrite -NO2,"Indeno(1,2,3-cd)pyrene : Dry Wt"
+841,5098,123789HxCDFd,TDE -op : Dry Wt
+842,5104,Be DISS,"Equiv.Carbon No >10-12, Aromatic Fraction"
+843,5119,Photo Taken,"Detergents, Anionic as Manoxol OT"
+844,5121,PFdecncAcid,Perfluoroundecanoic acid
+845,5122,HEX,2-Nitroaniline
+846,5150,Fe - Dry Wt,Iron : Dry Wt
+847,5152,Te DISS,"Tellurium, Dissolved"
+848,5153,HCHGamma DWt,HCH -gamma : Dry Wt :- {Lindane}
+849,5155,Median dia,HCH -alpha : Dry Wt
+850,5157,PirimiphsEth,Flumethrin
+851,5159,,
+852,5160,Mean dia,Particle Diameter : Mean
+853,5165,MicroxT5>95%,Escherichia coli : Confirmed : MPN : Wet Wt
+854,5189,Tetrachlorot,"Equiv.Carbon No >8-10, Aliphatic Fraction : Dry Wt"
+855,5234,PCB Tot Cong,Carbon Disulphide
+856,5235,PCB - 167,"1,2,3,4,7,8-Hexachlorodibenzo-p-dioxin"
+857,5236,C>8-10 Alip,Nonylphenol ethoxylate : Total compounds
+858,5237,23478PCDF-TE,PCB - 047
+859,5238,2378TCDF-ITE,PCB - 189
+860,5239,PCB - 123,"1,2,3,7,8-Pentachlorodibenzo-p-dioxin"
+861,5240,PCB - 081,Salmonella : Confirmed : MPN
+862,5241,OCDF,PCB - 167
+863,5242,PCB - 189,"1,2,3,7,8-Pentachlorodibenzofuran"
+864,5283,C>10-20,Equiv.Carbon No >30-40
+865,5284,Glycols,Equiv.Carbon No >20-44
+866,5288,Butan-1-ol,Pentanoic acid :- {Valeric acid}
+867,5289,As - DWt,"Equiv.Carbon No >8-10, Aliphatic Fraction"
+868,5290,ColfmF PMF,"1,2,3,4,6,7,8-Heptachlorodibenzofuran"
+869,5291,Ni - Dry Wt,Lead : Dry Wt
+870,5292,NaphthC1sDWt,Naphthalenes : C2 : Dry Wt
+871,5293,CYCLOHEXANON,"3,4-Dichloroaniline :- {3,4-Chlorobenzamine}"
+872,5294,Depth rel CD,GCMS Scan : Semi-Volatile Screen
+873,5295,PCB - 114,"1,2,3,7,8,9-Hexachlorodibenzofuran"
+874,5296,GCMS LL sVol,Isopropyl ether :- {Diisopropyl ether}
+875,5297,IsopropylEth,"Equiv.Carbon No >5-6, Aliphatic Fraction"
+876,5298,CyprmthrnDWt,Toluene : Dry Wt :- {Methylbenzene}
+877,5299,B - Dry Wt,Hydrocarbons : Total petroleum in diesel range organics
+878,5300,1234678CD-TE,"2,3,7,8-Tetrachlorodibenzo-p-dioxin"
+879,5301,"3,4 DICHLORO",N-nitrosodi-n-propylamine
+880,5302,C>5-6 Alip,PAH : Total : LOD as 0
+881,5328,Se Std Leach,"Boron, Leachable"
+882,5338,,
+883,5339,,
+884,5405,Acrylamide,Diphenyl Tin as Cation
+885,5414,IRON -LOOSE,Serratia Phage tracer
+886,5444,K LeachDW,GCMS Scan : after derivatisation
+887,5445,C10-40,Equiv.Carbon No 6-10
+888,5446,Cypermeth ID,"Oxygen, Dissolved, % Saturation : (Laboratory)"
+889,5510,Cyclohenanon,Anions
+890,5512,Anions,Suite Indicator : EC-SW
+891,5530,SanTowlsWtre,"Sewage debris, Strandline : Scale 0-3"
+892,5531,Grs/Scm Strd,"Contraceptives/Tampon applicators, Strandline : Scale 0-3"
+893,5532,ConTampWtrE,"Obnoxious sewage odours, Strandline : Scale 0-3"
+894,5533,EtFOSE,"Sewage debris, Waters edge : Scale 0-3"
+895,5534,SewDeb Strd,tert-Butylphenyl diphenyl phosphate
+896,5535,ConTampBtwn,"Grease /Scum, Waters edge : Scale 0-3"
+897,5536,Grs/Scm Btwn,"Intact human faeces, Strandline"
+898,5537,Grs/Scm WtrE,"Contraceptives/Tampon applicators, Strandline to water : Scale 0-3"
+899,5538,SanTowlsStrd,"Grease /Scum, Strandline to waters edge : Scale 0-3"
+900,5539,ConTampStrd,"Obnoxious sewage odours, Waters edge : Scale 0-3"
+901,5540,SanTowlsBtwn,"Obnoxious sewage odours, Strandline to waters edge : Scale 0-3"
+902,5541,I.H.F.@S>W,"Intact human faeces, Waters edge"
+903,5542,SewOdor WtrE,"Sanitary towels, Strandline to waters edge : Scale 0-3"
+904,5543,SewOdor Strd,"Grease /Scum, Strandline : Scale 0-3"
+905,5544,I.H.F.@W.E.,"Sanitary towels, Waters edge : Scale 0-3"
+906,5545,I.H.F.@S.,"Contraceptives/Tampon applicators, Waters edge : Scale 0-3"
+907,5546,PAHs (Calc),Tricresyl phosphate
+908,5547,Cond -insitu,Tris-Chloropropyl phosphate
+909,5548,PAHs (0 LOD),Clostridium perfringens : Presumptive : MF
+910,5549,TrixylenylPO,Isodecyl diphenyl phosphate
+911,5554,Eulan Dry Wt,Grain Size Fraction : phi  1.5 to 2.0
+912,5555,"1,1Diclethen",Tetrachloroethylene : Dry Wt :- {Perchloroethylene}
+913,5558,Trietazine,Carbaryl
+914,5560,p-Cresol,4-Methylphenol :- {p-Cresol}
+915,5561,m-Cresol,Weather : Rainfall : Coded
+916,5562,o-Cresol,"Drins : Total (Aldrin, Dieldrin, Endrin, Isodrin)"
+917,5563,Prometryn,Ethion
+918,5568,Beryllium-Be,Bacteroidetes Marker : Ruminant copy number
+919,5569,NP6EO,Bacteroidetes Marker : Ruminant : Report
+920,5572,Site Inspect,Hexachlorocyclopentadiene
+921,5573,HCHDelta DWt,Benzyl Alcohol
+922,5574,Sample Prep,"2,3,4,6-Tetrachlorophenol"
+923,5575,SOLVCOSHH,Orthophosphate as P
+924,5679,C>5-44Screen,"Equiv.Carbon No >10-24, Aliphatic Fraction"
+925,5680,HorseBact CN,Equiv.Carbon No >10-24
+926,5681,C>10-12,Bacteroidetes Marker : Horse Copy Number
+927,5682,HCH (0 LOD),Iodide
+928,5683,C>21-35 Arom,"Equiv.Carbon No >21-35, Aliphatic Fraction"
+929,5684,Flow,Suite Indicator : G2
+930,5685,C>6-7 Ali,Pyridine
+931,5686,BROMOFORM dw,"1,1-Dichloroethane : Dry Wt"
+932,5687,4Chloroaniln,"Equiv.Carbon No >10-44, Aromatic Fraction"
+933,5688,C>20-40 Ali,"Equiv.Carbon No >35-40, Aromatic Fraction"
+934,5689,Tin Org - Sn,HCH : Total Isomers : LOD as 0
+935,5690,C>16-21 Arom,"Equiv.Carbon No >21-35, Aromatic Fraction"
+936,5691,MEK,Butanoic acid :- {Butyric acid}
+937,5692,O Xylene DW,Heptachlor : Dry Wt
+938,5693,EthanoicAcid,Propionic acid :- {Propanoic acid}
+939,5717,,
+940,5718,,
+941,5719,,
+942,5724,,
+943,5725,,
+944,5726,,
+945,5727,Total HxCDF,Oil Visible : In Situ
+946,5729,WRA Sec 87,WRA Section 87 Waiver
+947,5731,C>12-16 Arom,"Microtox, 15 Minutes : EC50"
+948,5732,TriPT Cation,"1,2,3-Trichlorobenzene"
+949,5733,Propiconazol,Fluoxetine : {Prozac}
+950,5734,Algae TCC,Isodrin : Dry Wt
+951,5735,Nitrobenzene,Mitochondrial Marker : Cattle copy number
+952,5736,Alachlor,Metazachlor
+953,5737,Rotenone,"1,1-Dichloroethane"
+954,5861,DPT Cation,Suite Indicator : LIST1
+955,5862,Oxytetracycl,Ibuprofen
+956,5863,PClBenzene,HCH -epsilon
+957,5871,Pb LeachDW,Dry Solids at 30 C
+958,5872,Dry Matter %,Cryptosporidia oocysts
+959,5873,Asbest.fbr,Chloride : Dry Wt
+960,5874,Ni LeachDW,Suite Indicator : EC-SW2
+961,5875,Chloride DWt,Chlorthal Dimethyl
+962,5876,Cr LeachDW,Streptococci : Faecal : Confirmed : MPN : Wet Wt
+963,5877,EDTA,Metals : Total ( Cr Ni Pb Zn ) : Group 45
+964,5878,Zn LeachDW,Dry Matter : %
+965,5879,Cd LeachDW,ICP - OES : Metals screen : Semi-quantitative
+966,5880,PCB 28 DW,PCB - 138 : Dry Wt
+967,5882,ACALKCOSHH,n-ButylBenzene : Dry Wt :- {1-Phenylbutane}
+968,5883,TCB tot dw,Barium : Dry Wt
+969,5884,12NBenzene,"4,4-Methylenedianiline"
+970,5885,AIR TEMP,"Iron, Particulate"
+971,5886,PhaeophytnAB,"Cobalt, Dissolved"
+972,5889,Triclosan,"2,5-Dichlorophenol"
+973,5890,Mn - Dry Wt,Dieldrin : Dry Wt
+974,5891,Trihalomethn,Chloride : In Situ
+975,5893,Na:Cl Ratio,Cations
+976,5894,Cresols tot,Pentachlorodibenzofuran : Sum of Isomers
+977,5895,PhenolsTot,Hexachlorodibenzo-p-dioxin : Sum of Isomers
+978,5896,,
+979,5923,ETHOFUMESATE,Pirimiphos-methyl
+980,5930,Salinity by,3-Methylphenol :- {m-Cresol}
+981,5933,Rhodium,Cerium
+982,5934,CrCuNiZn,Calcium : Dry Wt
+983,5937,Acenapthen,"Coliforms, Faecal : Presumptive : MF : Analysis in 10 Hours"
+984,5938,SI-SHWREF,Grain Size Fraction : phi 2.5 to 3.0
+985,5943,3Chlorotolun,"Tin, Dissolved"
+986,5944,HcarbonsFilt,Suite Indicator : HARM
+987,5948,Demeton-s-Me,Substances Extractable by Chloroform
+988,5949,"1,2,3-Trimet",Fenchlorphos :- {Ronnel}
+989,5950,NH4+FieldDet,"Silica, reactive, Filtered as Si"
+990,5951,Tecnazene+M,"Trimethylene glycol :- {Propan-1,3-diol}"
+991,5952,PCB - 157,PCB - 157
+992,5953,b2CliPrEther,"1,3-Dinitrobenzene"
+993,5955,SILICATEasSi,4-Nonylphenol nonaexthoxylate
+994,5956,MMFIBRES,Hexabromocyclododecane -beta : Dry Wt
+995,5957,Gymnodinium,"cis-1,3-Dichloropropylene : Dry Wt"
+996,5959,SI-GQA,Phenols : Monohydric as Phenol
+997,5960,S-A-T-azine,Odour : Threshold Number at 25 C
+998,5961,TrCFMethan,Bromate
+999,5962,Microx 15min,"Equiv.Carbon No >16-21, Aromatic Fraction"
+1000,5963,PhenolsSWAD,Suite Indicator : KEY
+1001,5964,phi 8.5-9.0,Grain Size Fraction : phi 5.0 to 5.5
+1002,5966,ClEthaneDW,Dimethylbenzene : Sum of isomers :- {Xylene}
+1003,6013,,
+1004,6019,NGR Easting,NGR : Northing
+1005,6020,NGR Northing,"Nitrate, Filtered as N"
+1006,6028,OCDD,Bisphenol A
+1007,6030,Silver - Ag,4-Chlorophenoxyacetic acid
+1008,6037,Al- Filtered,"Aluminium, Dissolved"
+1009,6038,BactRumnt CN,Nonylphenol
+1010,6040,2Cl5NToluene,"Dibenzo(a,h)Anthracene"
+1011,6045,As-Filtered,"Arsenic, Dissolved"
+1012,6046,Arsenic - As,Arsenic
+1013,6047,Se- Filtered,DDT : Sum of components
+1014,6049,Selenium -Se,Dimethoate
+1015,6050,Manganse-Mn,Manganese
+1016,6051,OrthophsFilt,Iron
+1017,6052,Prep: DNA,Microbial Source Tracking
+1018,6054,PCSDs,Propyzamide
+1019,6057,Aluminium-Al,Aluminium
+1020,6058,"Oil,Grse,Fat",Aldoxycarb :- {Aldicarb Sulfone}
+1021,6059,Boron - as B,"Silicate, Filtered as SiO2"
+1022,6060,SI-EC-F,PCSDs :- {chlorphenylid}
+1023,6061,Vanadium - V,COPA
+1024,6062,Barium - Ba,Chlorfenvinphos
+1025,6063,Strontium-Sr,4-Chloro-3-methylphenol :- {p-Chloro-m-cresol}
+1026,6064,Lithium - Li,"1,2-Dimethylbenzene :- {o-Xylene}"
+1027,6091,,
+1028,6360,Pb BLM Bio,Number of birds
+1029,6365,HxClEthane,Phenols : Total (Seven compounds) : SWAD
+1030,6366,,Heptachlorodibenzofuran : Sum of Isomers
+1031,6368,CL-N-Toluens,Perylene
+1032,6369,Cd - Wet Wt,Zinc : Wet Wt
+1033,6371,AMOSITE,Thallium : Dry Wt
+1034,6373,ETBE,Perfluorotetradecanoic acid
+1035,6374,Sld Sus@500C,Mitochondrial Marker : Canine
+1036,6376,AvianMito CN,"PCB : Total Congeners 28, 52, 101.118,138,153,180"
+1037,6379,Sulphate DWt,HCH -epsilon : Dry Wt
+1038,6396,TurbidityNTU,Chemical Oxygen Demand :- {COD}
+1039,6397,4-METHYL 2-N,4-Methyl-2-nitroaniline
+1040,6399,B-[a]-pyrene,Benzo(k)Fluoranthene
+1041,6400,Aldrin DWt,Naphthalene : Dry Wt
+1042,6423,StrepF PMF,Weather : Visibility : Past 7 days
+1043,6425,Matter-TolDW,Cyanide : Free uncomplexed : Dry Wt as CN
+1044,6426,MINLFIBRES,Copper : Wet Wt
+1045,6428,,
+1046,6447,Dimethoate,Isoproturon
+1047,6448,Hours of Sun,Tin
+1048,6449,Bromoxynil,Sea Colour : compared to normal
+1049,6450,Cu Filtered,"Copper, Dissolved"
+1050,6452,Copper - Cu,Turbidity
+1051,6453,Ag- Filtered,Chlorpyrifos-ethyl
+1052,6455,Zinc - as Zn,Zinc
+1053,6458,Mn- Filtered,"Manganese, Dissolved"
+1054,6460,Fe- Filt,"Coliforms, Faecal : Presumptive : MF"
+1055,6461,Sheep Mito,Mitochondrial Marker : Sheep copy number
+1056,6462,Nickel - Ni,Lead
+1057,6473,CHCl3 Extrac,Bacteroidetes marker: All copy number
+1058,6485,Nitrite Filt,"Nitrite, Filtered as N"
+1059,6487,Triazophos,Mevinphos
+1060,6495,cpH8.3 CaCO3,"Iron, Leachable"
+1061,6512,Carbaryl,Sulcofuron
+1062,6515,Action taken,"1,1,1-Trichloroethane"
+1063,6516,Liqcolour-st,"1,1,2-Trichloroethane"
+1064,6517,Liqcolour-mn,"2,4,5-T :- {2,4,5-Trichlorophenoxyacetic acid}"
+1065,6518,Liqcolour-se,4-Chloro-2-nitrotoluene :- {2-Nitro-4-Chlorotoluene}
+1066,6520,Solid quanty,Dicamba
+1067,6526,RedxPot in-s,"Equiv.Carbon No >12-16, Aliphatic Fraction"
+1068,6528,Weth-Visibty,Weather : Visibility
+1069,6529,Weth7Dy-Prec,Weather : Precipitation : Past 7 days
+1070,6530,Weth7Dy-Temp,Weather : Temperature : Past 7 days
+1071,6531,Weth7Dy-Vsy,"Chromium, Dissolved"
+1072,6532,NP11EO,4-Nonylphenol dodecaexthoxylate
+1073,6534,TetPTtin Cat,Site number
+1074,6537,MTBE,Tellurium
+1075,6538,Sulcotrione,"cis-1,2-Dichloroethylene :- {cis-1,2-Dichloroethene}"
+1076,6539,OptDens@490F,"Optical Density at 440 nm, Filtered"
+1077,6540,11DiClPropen,"trans-1,3-Dichloropropylene :- {trans-1,3-Dichloropropene}"
+1078,6541,nButylbenzne,"cis-1,3-Dichloropropylene :- {cis-1,3-Dichloropropene}"
+1079,6542,PHENOL Grp 3,"1,2,3-Trichloropropane"
+1080,6543,AmoniaTotYSI,"1,1-Dichloropropylene :- {1,1-Dichloropropene}"
+1081,6544,OestroneE1,MTBE :- {Methyl tert-butyl ether}
+1082,6547,Ethiofencarb,PCB - 020
+1083,6548,EC0157-100ml,Grain Size Fraction : phi 3.5 to 4.0
+1084,6549,phi 4.0-4.5,4-n-Nonylphenol :- {p-n-Nonylphenol}
+1085,6551,GS Kurtosis,Acidity to pH 4.5 as CaCO3
+1086,6552,2-CHLORO-4-N,2-Chloro-6-nitrotoluene
+1087,6554,2-CHLORO-6-N,Benazolin
+1088,6556,Solids <63um,Copper : Dry Wt
+1089,6558,C>5-44,Equiv.Carbon No >5-44
+1090,6559,TertButylbnz,sec-Butylbenzene :- {1-Methylpropylbenzene}
+1091,6562,DEMETON-S,p-Isopropyltoluene : Dry Wt
+1092,6563,Chlorodibrom,"Solids, Suspended, non-volatile at 500 C, 1/2 hour settled"
+1093,6564,Ammonia in-s,"Phenols, (4-amino-antipyrene)"
+1094,6567,WEATHER FLAG,Suite Indicator : G3
+1095,6568,TBT as Sn,Metals : Total ( As Cd Cr Cu Ni Pb Zn ) : Group 21
+1096,6569,Canine Mito,"2,6-Dichlorophenol"
+1097,6571,phi 3.0-3.5,"Escherichia coli, O157 : per 100 ml"
+1098,6572,C>6-8,Chloro-alkanes C10-13 :- {Short chain chlorinated paraffins}
+1099,6573,o-Toluidine,o-Toluidine :- {2-Methylaniline}
+1100,6575,PC3/37,1-Butanol :- {Butan-1-ol}
+1101,6577,OptDens@750F,"Optical Density at 490 nm, Filtered"
+1102,6578,OptDens@620F,Bathing Water: Plastics
+1103,6579,"1,2 -DIBROMO","1,2-Dibromo-3-chloropropane"
+1104,6580,C>10-40 Ali,"Equiv.Carbon No >10-20, Aromatic Fraction"
+1105,6583,4Cl2Ntoluene,4-Phenoxybutyric acid :- {PBA}
+1106,6584,12Propandiol,Mitochondrial Marker : Avian copy number
+1107,6586,Fluazinam,Methanol
+1108,6588,C>6-10,Equiv.Carbon No >5-10
+1109,6591,1122TetClEth,"Dinoseb :- {2-Methyl-n-propyl-4,6-dinitrophenol} :- {DNBP}"
+1110,6592,Acidity pH45,"Sulphide, Dissolved as S"
+1111,6593,GSF 564-261,Grain Size Fraction : 14.5 to 11.4 microns
+1112,6594,4BrPhPhEther,Isophorone
+1113,6601,C>20-44 Ali,"Equiv.Carbon No >20-40, Aromatic Fraction"
+1114,6603,Aldicarb,Bupirimate
+1115,6604,BrClMethan,"DNOC :- {4,6-dinitro-o-cresol}"
+1116,6605,DNOC,"1,3-Dichloropropane"
+1117,6610,WEATHER COND,Propetamphos : Dry Wt
+1118,6612,SCCPs,Equiv.Carbon No >6-44
+1119,6613,C>5-10,"Solids, < 63 um"
+1120,6614,E.coli C-MPN,p-Toluidine :- {4-Methylaniline}
+1121,6615,Chlorothalnl,"2,4,5-Trichlorophenol"
+1122,6619,Cr Hex Filt,"Chromium Hexavalent, Dissolved :- {Cr VI}"
+1123,6620,Clopyralid,Phenoxyacetic acid :- {PAA}
+1124,6628,FONOFOS,Glyphosate
+1125,6629,PERMETHRIN,Crayfish plague (Aphanomyces astaci) DNA: Present/Not found
+1126,6633,6:2 FTSA,Diquat
+1127,6635,Desmetryne,Picloram
+1128,6640,Titanium -Ti,Cobalt
+1129,6642,Pest EC-SW,4-Nonylphenol octexthoxylate
+1130,6643,IonicBal Dis,"Perfluoro-3,6-dioxaheptanoic acid"
+1131,6644,Max Wind Spd,"Flow, instantaneous"
+1132,6648,HEXACHLORO 1,Trichloroethylene :- {Trichloroethene}
+1133,6649,Iodofenphos,Ethirimol
+1134,6655,XYLENE (tot),"2,5-Dichloronitrobenzene"
+1135,6656,17beta E2,"2,2-Dichloropropane"
+1136,6657,C>6-40,Equiv.Carbon No >6-8
+1137,6658,Tellurium,Ammoniacal Nitrogen : Grant YSI 55 : In Situ
+1138,6659,IsoPropylBen,Bicarbonate as HCO3
+1139,6661,CattleMitoCN,Mitochondrial Marker : Cattle
+1140,6663,6-CHLORO-2-A,6-Chloro-2-aminotoluene {1-Chloro-2-methyl-3-aminobenzene}
+1141,6665,Fomesafen,Perfluoro(2-ethoxyethane)sulfonic acid
+1142,6666,Bromate,Alkalinity to pH 8.3 as CaCO3
+1143,6671,PhenoxytcAcd,Di(2-ethylhexyl) phthalate :- {DEHP}
+1144,6672,4Phenoxbutyr,2-Phenoxypropionic acid :- {PPA}
+1145,6673,2Phenoxyprop,Clopyralid
+1146,6676,Nickel DGT,Lead : DGT extract {Diffuse Gradient Thin Film Device}
+1147,6677,C>10-C40 DW,Metals : Total ( Cr Cu Ni Zn )
+1148,6684,Methanol,Chromium : Dry Wt
+1149,6685,Hydrocarbons,4-Nonylphenol pentexthoxylate
+1150,6687,Salinty in-f,Benzo(e)Pyrene
+1151,6690,12DCPa,n-ButylBenzene :- {1-Phenylbutane}
+1152,6693,StrontumFilt,Azinphos-ethyl
+1153,6697,4 -ISO-PROPY,"1,2-Dichloropropane"
+1154,6699,OptDens@650F,PCB - 035
+1155,6701,Total TCDF,Clarity code
+1156,6711,CanineMitoCN,"4-Chloro-3,5-dimethylphenol :- {PCMX}"
+1157,6713,Ba - Dry Wt,Octachlorodibenzo-p-dioxin
+1158,6715,PCB 128,3-Chlorotoluene :- {3-Chloromethylbenzene}
+1159,6716,m-p-Xylene,Triclopyr
+1160,6720,24DiNitTol,2-Methylnaphthalene
+1161,6724,DEHP,Tecnazene
+1162,6726,PBDE 99 DW,"Dimethylbenzene : Sum of isomers (1,2- 1,3- 1,4-) : Dry Wt"
+1163,6731,Propachlor,Paraquat
+1164,6736,GSF18.5-14.5,Grain Size Fraction : 11.4 to 9.1 microns
+1165,6739,C>7-8 Aro DW,Dibromoethane
+1166,6744,Level@Smpl T,Identity of hand held meter
+1167,6753,Anthracene,Cyfluthrin
+1168,6760,Chloridazon,4-Chlorophenol
+1169,6769,GSF 62.5-124,Grain Size Fraction : 250 to 499 microns
+1170,6770,iDecDiPhPhos,Conductivity : Grant YSI 3800 : In Situ
+1171,6771,PAH (WHO),Trixylenyl phosphate
+1172,6776,Flucofuron,"Optical Density at 400 nm, Filtered"
+1173,6784,,
+1174,6809,CondFldYSI38,Grain Size Median
+1175,6810,EC0157 /L,"Carbon, Organic : Dry Wt as C"
+1176,6811,TricresylPO4,Escherichia coli : Confirmed : MPN
+1177,6816,ParathionDWt,Flow : Daily total
+1178,6821,1112TetClEtD,"1,2,3-Trichloropropane : Dry Wt"
+1179,6830,PFOS (T),Formaldehyde :- {Methanal}
+1180,6832,U - Filtered,Phage : F+ Coliphage
+1181,6834,GSF 500-999,Grain Size Fraction : 125 to 249 microns
+1182,6835,TriphenylPO4,Cresyldiphenyl phosphate
+1183,6836,Citrate,Weather : Abnormal
+1184,6839,Tl - Dry Wt,Octachlorodibenzo-p-dioxin : Dry Wt
+1185,6841,Phenol Odour,Phenolic Odour
+1186,6842,C>10-44 Aro,"Solids, Volatile at 500 C"
+1187,6843,Zinc DGT,"Arsenic, < 63 um : Dry Wt"
+1188,6845,CreDiphenPO4,Citrate
+1189,6846,tBuPhDiPhPO4,Triphenyl phosphate
+1190,6847,D Site Insp,River flow status
+1191,6848,GSF 11.4-9.1,Grain Size Fraction : < 2000 microns
+1192,6849,C Organic DW,Descriptive Site Inspection : Pass/Fail 1/0
+1193,6850,WeatherAbnml,Grain Size Mean
+1194,6854,11DiClPrpenD,UV Scan : Wavelength Max 2
+1195,6862,Acenapthylen,Ethiofencarb
+1196,6865,Flow Instant,Arsenic : Dry Wt
+1197,6866,Pb - Dry Wt,Nickel : Dry Wt
+1198,6868,,
+1199,6872,NP10EO,4-Nonylphenol tetradecaexthoxylate
+1200,6873,Phenanthrene,Colour change
+1201,6874,Oil PRES/NF,DDE -op
+1202,6882,IsobutyrcAcd,iso-Butanoic acid :- {2-Methylpropanoic acid}
+1203,6883,Isovaleric,iso-Hexanoic acid :- {iso-Caproic acid}
+1204,6884,Ind123pyrDWt,Streptococci : Faecal : Colony identification
+1205,6887,,
+1206,6897,Bathers/Km,"Marine algae, Strandline"
+1207,6906,123TMeBenzDW,Mineral Fibres
+1208,6908,2356TClAnDW,Signal crayfish (Pacifasticus leniusculus) DNA: Present/Not found
+1209,6919,UnsightlyMat,Bathers per kilometre
+1210,6928,H2 Peroxide,"Dimethylbenzene : Sum of isomers (1,3- 1,4-) : Dry Wt"
+1211,6929,Be - Dry Wt,"2,3,5,6-Tetrachloroaniline : Dry Wt"
+1212,6935,MarinAlgStrd,"Marine algae, Offshore"
+1213,6936,MarinAlgWtrE,"Dimethylbenzene : Sum of (1,2- 1,3- 1,4-) :- {Xylene}"
+1214,6937,MarinAlgOffs,"Marine algae, Waters edge"
+1215,6940,Carbon diS,Trichlorofluoromethane
+1216,6943,RainfallCode,Naphthalene
+1217,6944,SunshineCode,Unsightly matter
+1218,6945,P -settled,"Solids, Volatile at 550 C"
+1219,6954,CODSettled-O,Deltamethrin : Dry Wt
+1220,6955,Transpy Qual,2-Chlorotoluene :- {1-Chloro-2-methylbenzene}
+1221,6971,OptDens@700F,Sulcotrione
+1222,6972,DiClBenzPhWW,Methomyl
+1223,6973,Benzenamine,"Selenium, Leachable"
+1224,6976,DtrgtAnc&Nnc,"Optical Density at 700 nm, Filtered"
+1225,6980,Ethirimol,Oxamyl
+1226,6982,NFDHA,2-(N-Methylperfluorooctanesulfonamido)acetic acid (B)
+1227,6987,Carbofuran,Propoxur
+1228,6988,NP4EO,p-Nonylphenol Tetraethoxylate (isomer mix)
+1229,7002,,
+1230,7003,,
+1231,7013,C>30-40 Aro,"Equiv.Carbon No >20-44, Aliphatic Fraction"
+1232,7016,Chloroxylenl,Chloromethane :- {Methyl Chloride}
+1233,7025,Perylene,Rotenone
+1234,7028,ChlorfvnpDWt,Molybdenum : Dry Wt
+1235,7044,IonicBalance,Ionic Balance
+1236,7053,Methabnzthzn,Conductivity : In Situ
+1237,7060,VEGFIBRES,Tetrachlorodibenzo-p-dioxin : Sum of Isomers
+1238,7064,,
+1239,7068,,
+1240,7071,Prochloraz,Bromoform :- {Tribromomethane}
+1241,7072,Temp Dry Blb,Water level above OD
+1242,7073,SDiscm,Schradan :- {Pestox}
+1243,7074,"2,6 Lutidine",Tetrachlorothioanisole : Sum of Isomers
+1244,7075,Tributyl Tin,Octylphenol
+1245,7077,8:2 FTSA,PAH : Total :- {Polynuclear Aromatic Hydrocarbons}
+1246,7078,NH3 Lch DW,2-Methylpropan-1-ol :- {Iso-Butanol}
+1247,7079,Tralkoxydim,"Simazine, Atrazine and Trietazine : Sum of"
+1248,7080,TWA-PSD,DDT -op : Dry Wt
+1249,7081,TCB Tot,Perfluorooctanoate anion
+1250,7086,OptDens@600F,"Optical Density at 450 nm, Filtered"
+1251,7101,Psud-a  C-MF,"1,2,3,4,6,7,8-Heptachlorodibenzofuran - ITEQ Upper Bound"
+1252,7108,Leach Method,Monooctyl Tin : Dry Wt as Cation
+1253,7122,UVscan AbMx1,Beryllium : Dry Wt
+1254,7123,Atrazine DWt,Parathion-ethyl : Dry Wt :- {Parathion}
+1255,7125,Sn- Filtered,"2,4-D Ethyl Ester"
+1256,7135,MeFOSAA-B,Tetrabutyl Tin as Cation
+1257,7136,PFDoS,3-Perfluoroheptylpropanoic acid
+1258,7137,Na RATIO,"Equiv.Carbon No >16-21, Aliphatic Fraction"
+1259,7138,Norfluoxetin,"Phosphorus, Soluble reactive, GF/C Filtered"
+1260,7141,,
+1261,7151,RedoxPotEHmv,Redox Potential
+1262,7154,BacHF183,Preparation: DNA
+1263,7155,IR Scan,Metals : Total ( Cr Cu Fe Ni Pb )
+1264,7159,Hdnss Mg,Cyanazine
+1265,7167,INST.FLOW,"1,3-Dichloropropylene (cis- and trans-)"
+1266,7168,CplagDNACopy,"Sulphide, Leachable"
+1267,7170,Zn - Dry Wt,Zinc : Dry Wt
+1268,7171,Sort Coeff,Sorting Coefficient
+1269,7172,C>7-8 Arom,Colony count : 1 Day at 37C : Aerobic
+1270,7173,SI-EC-CD,Uranium
+1271,7174,Uranium - U,"Phosphorus, Dissolved"
+1272,7175,Na Leach,"2,2,4,4,5-Pentabromodiphenyl ether : Dry Wt :- {PBDE 99}"
+1273,7180,Liq WRT OD,Triethylene Glycol
+1274,7181,ClPyrphosMe,"DDT : Total Isomers (DDT op pp, DDE pp, TDE pp)"
+1275,7183,Zn Std Leach,"Barium, Leachable"
+1276,7190,Ethenylbenzn,"Optical Density at 670 nm, Filtered"
+1277,7191,Sld Filt@180,Flutriafol
+1278,7198,Cations,Phosphate : Total dissolved as P
+1279,7199,Na - Dry Wt,Bismuth
+1280,7201,PhennthrnDWt,Chlorine : Total : In Situ as Cl2
+1281,7202,Tot Drins(4),Propazine
+1282,7204,PCB - 018,"Nitrogen, Total Oxidised, Leachable : Dry Wt as N"
+1283,7213,Tot DDTs (4),"1,2,4-Trimethylbenzene"
+1284,7215,Horiz R-bank,Grain Size Fraction : phi 9.5 to 10.0
+1285,7216,Tot HCHs ABG,Carbophenothion
+1286,7221,3+4NAniline,"Escherichia coli : 3 Days, 36-38C : Confirmed : in 100 ml"
+1287,7226,i-Butanol,Loss of Mass on drying at 105 C
+1288,7227,DICHLOBENIL,pH of Leachate
+1289,7234,"1,3,5TCB D","Equiv.Carbon No >5-10, Aliphatic Fraction"
+1290,7235,MICROTOX TES,"BOD : 5 Day ATU, Settled"
+1291,7237,234678HxCDFd,"Antimony, Leachable"
+1292,7246,,
+1293,7259,PBDE 138 DW,Chloroform : Dry Wt :- {Trichloromethane}
+1294,7264,PFHxS-B,"Fluoride, Dissolved"
+1295,7273,PhenthC3 DW,Cypermethrin : Wet Wt
+1296,7274,PCB 126,PCB - 077
+1297,7277,PCB 118 DW,PCB - 052 : Dry Wt
+1298,7299,Colfm PMF10,Sulphide as S
+1299,7301,Tot Coli PMF,Suite Indicator : EC-N
+1300,7303,Ba Leach24,Signal crayfish (Pacifasticus leniusculus) copy number
+1301,7317,C>6-44,Equiv.Carbon No >6-40
+1302,7324,,
+1303,7325,PYRENE,Irgarol 1051
+1304,7328,Cl2 Free,"Solids, Total Dissolved at 180 C: {TDS}"
+1305,7329,,
+1306,7331,Malachite Gr,Atrazine and Simazine
+1307,7334,iPrPhDiPhPO4,Salmonella : in 1 Litre
+1308,7336,,
+1309,7337,14DiClBenzDW,Chloromethane : Dry Wt :- {Methyl Chloride}
+1310,7338,Mo Leach24,"Sodium, Leachable"
+1311,7340,,
+1312,7341,Oil ID,Depth relative to Chart Datum
+1313,7342,HTrlTW,Time of sampling relative to previous high water
+1314,7347,CplagDNAP:NF,Demeton-S-methyl : Dry Wt
+1315,7348,,
+1316,7352,,
+1317,7359,HdssCarbonat,"Methylphenol : Total Isomers (2-, 3-, 4-) : LOD as 0"
+1318,7369,,
+1319,7378,TRI CLPR P,Aluminium : Dry Wt
+1320,7379,Al - Dry Wt,"Coliforms, Faecal : Confirmed : MPN : Wet Wt"
+1321,7390,B-[b]-fluDWt,"Equiv.Carbon No >5-10, Aromatic Fraction"
+1322,7395,ACENAPTHEN,Metsulfuron-methyl
+1323,7396,Cadmium DGT,"Coliforms, Total : Confirmed : MPN : Wet Wt"
+1324,7408,A.F. @ S.,"Hardness, Calcium"
+1325,7409,GSF 125-249,Grain Size Fraction : 500 to 999 microns
+1326,7413,A.F.@S>W,Biphenyl
+1327,7414,River Flow,"Escherichia coli, O157 : per Litre"
+1328,7417,A.B.@S>W,4-Chloro-2-methylphenol :- {p-Chloro-o-cresol}
+1329,7420,GS Median,Grain Size Kurtosis
+1330,7434,NATGRIDREF,National Grid Reference : Whole : Field report
+1331,7440,Iso Prop Tol,Ammoniacal Nitrogen : Dry Wt as N
+1332,7444,B-(a)-antDWt,Benzo(a)Anthracene : Dry Wt
+1333,7445,SI-EC-HCH,Colony count : 5 Days at 22C : Aerobic
+1334,7467,C>6-8 Ali DW,Latitude : Minutes
+1335,7468,GLASFIBRES,Lead : Wet Wt
+1336,7469,3ClToluenDW,"Borehole : Depth total, Metres below datum"
+1337,7470,g-HBCDD DW,"Nitrogen, Total Oxidised : Dry Wt as N"
+1338,7473,Cu - wet wt,Nitrate : Dry Wt as N
+1339,7474,N Oxd DWt,"Optical Density at 600 nm, Unfiltered"
+1340,7475,C>5-6 Ali DW,"WQMS : Ammonia electrode, High C.O.P"
+1341,7476,"1,3 DCP(cis)","2,6-Dimethylpyridine :- {2,6-Lutidine}"
+1342,7477,C>5-10 DW,Nickel : Wet Wt
+1343,7478,Lead - wet w,Sulphur : Total : Dry Wt
+1344,7479,C>5-8 DW,Chaetocerus : Bloom algae
+1345,7480,FlashP-SETA,Hydrazine as N
+1346,7481,PCBTOT(ARO W,Iron : Wet Wt
+1347,7482,CS2,PCB : Total as Aroclor : Wet Wt
+1348,7483,Sld Sus-OptT,Cadmium : Wet Wt
+1349,7484,2-MePyridine,Flashpoint : SETA
+1350,7485,C>8-10 AliDW,Methane : as % V/V
+1351,7486,1122TetClEtD,PCB : Total as Aroclor
+1352,7487,OrganoHalogn,"Titanium, Particulate"
+1353,7488,DO YSI 3800,Text determinand for virology samples
+1354,7518,C>10-24 Ali,"Equiv.Carbon No >20-40, Aliphatic Fraction"
+1355,7531,123TriClProp,"tert-Butylbenzene :- {(1,1-Dimethylethyl)benzene}"
+1356,7562,Acrb-slphn,"Optical Density at 620 nm, Filtered"
+1357,7563,Survey No.,Cypermethrin : Dry Wt
+1358,7567,NDPA,Nitrate as NO3
+1359,7568,SI-EC-SW,Acenaphthylene : Dry Wt
+1360,7574,Bicarb HCO3,"1,1,2,2-Tetrachloroethane"
+1361,7580,b2ClEtOxMeth,Bis(2-chloroethyl)ether
+1362,7581,b2ClEtEther,Di-n-octylphthalate
+1363,7591,C>10-40 Aro,"Equiv.Carbon No >20-44, Aromatic Fraction"
+1364,7593,Temp Wet Blb,Nitrite : Dry Wt as N
+1365,7600,PFheptncAcDW,Perfluoroundecanoic acid : Dry Wt
+1366,7606,,
+1367,7608,SALinsitu,Salinity : In Situ
+1368,7609,Cu BLM Bio,Mineral Oil
+1369,7610,Alk-Gran,Metoxuron
+1370,7611,PETETHEXT WW,Dichloromethane : Dry Wt :- {Methylene Dichloride}
+1371,7612,23478PeCDFdw,Substances Extractable by Petroleum ether : Dry Wt
+1372,7623,"2,5 DICHLORO",Chlorfenvinphos : Dry Wt
+1373,7627,Flow Int,Man Made Fibres
+1374,7629,Dibutylphthl,Dibutyl Phthalate
+1375,7634,,
+1376,7661,B-[e]-pyrDWt,Methoxychlor : Dry Wt
+1377,7665,BactHumanCN,"Coliforms, Total : Confirmed"
+1378,7668,NO FLOW/SAMP,"Dimethylbenzene : Sum of isomers (1,3- 1,4-)"
+1379,7669,SO4(QA),Grain Size Fraction : 1000 to 3999 microns
+1380,7692,Endrin DryWt,Phenanthrene : Dry Wt
+1381,7694,N Digested,"Nitrogen, Digested as N"
+1382,7703,Acetate,Fenpropidin
+1383,7706,STYRENE DW,Weather : Atmospheric pressure
+1384,7723,26DiNitTol,4-Chlorophenyl phenyl ether
+1385,7726,"2,3,6-TBA",Prometryn
+1386,7754,PCB Con 008,Aldicarb sulfoxide
+1387,7755,eDNA Filt,Ethyl acetate :- {Ethyl Ethanoate}
+1388,7756,PBDE 138,"2,3,4,4-Tetrabromodiphenyl ether :- {PBDE 66}"
+1389,7771,pIsoPropTolD,Escherichia coli : Presumptive : MF : Wet Wt
+1390,7773,Pyrene DWt,Pyrene : Dry Wt
+1391,7781,13NBenzene,"Ammoniacal Nitrogen, Leachable : Dry Wt as N"
+1392,7786,,
+1393,7830,,
+1394,7831,,
+1395,7833,EndslphnBDWt,Cobalt : Dry Wt
+1396,7844,Ecoli P-MPNB,"2,2,3,4,4,5,6-Heptabromodiphenyl ether : Dry Wt {PBDE 183}"
+1397,7845,As < 63,Copper : DGT extract {Diffuse Gradient Thin Film Device}
+1398,7846,Copper DGT,Equiv Carbon No >C10 to C40 : Dry Wt
+1399,7847,Mg - Dry Wt,Cadmium : DGT extract {Diffuse Gradient Thin Film Device}
+1400,7848,Dtrgt Nnc,Carbonate as CO3
+1401,7849,Ca - Dry Wt,Nickel : DGT extract {Diffuse Gradient Thin Film Device}
+1402,7850,Chloroxuron,Chlormequat chloride
+1403,7851,2378-TCDD DW,Methyl methacrylate :- {Methyl-2-methylpropenoate}
+1404,7852,Rejected,"Hardness, Carbonate"
+1405,7859,SO4dis,Fenitrothion
+1406,7864,FLUORENE,"2,4-D Iso Octyl Ester"
+1407,7867,TriethylnGly,"Diethylene glycol :- {2,2-Oxybisethanol}"
+1408,7887,CHLOROPHYLL,Chlorophyll : Acetone Extract
+1409,7888,CHLOR A,"Dichlorprop :- {2,4-DP}"
+1410,7897,TriallateDWt,Vegetable Fibres
+1411,7899,,
+1412,7904,Microx  5min,Glycols: Total
+1413,7912,Isobutanol,"Equiv.Carbon No >7-8, Aromatic Fraction"
+1414,7914,Oil&GrsDWtEx,Asbestos
+1415,7916,Oil&Grs DWt,Carbohydrate as Glucose
+1416,7917,,
+1417,7919,BOD5DyATUFil,n-Propylbenzene :- {1-Phenylpropane}
+1418,7921,OILS UV,Propiconazole
+1419,7924,22DCPropan,17alpha ethynyloestradiol :- {EE2}
+1420,7925,PO4 Leach,Loss of Mass on drying at 450 C
+1421,7930,,
+1422,7932,TBT Dry Wt,PCB - 167 : Dry Wt
+1423,7933,phi 8.0-8.5,"Boron, Boiling water soluble : Dry Wt"
+1424,7934,Dibutyl Tin,Tetrabutyl Tin : Dry Wt as TBT
+1425,7940,CO2 % v/v,PCB - 189 : Dry Wt
+1426,7944,Vinclozolin,Erythromycin
+1427,7976,NO2 N DW,Chloro organics : Group 4
+1428,7996,Gold,Zinc : DGT extract {Diffuse Gradient Thin Film Device}
+1429,7999,CarbonateCO3,Sodium : Dry Wt
+1430,8000,12378PeCDFdw,trans-Heptachlor epoxide : Dry Wt
+1431,8045,Octyl Phenol,Methoxychlor
+1432,8046,Bathers 100m,Bathers per 100 m
+1433,8047,Biphenyl,Floating material : Tars
+1434,8048,BOD5DyF 2ATU,Vinyl chloride :- {Chloroethylene}
+1435,8049,4Cl3NToluene,4-Chloro-3-nitrotoluene
+1436,8050,Propyzamide,"2,4-Dimethylphenol :- {2,4-Xylenol}"
+1437,8052,a Cypermeth,"Solids, Dissolved at 105 C"
+1438,8060,TecnazineDWt,Dichlobenil : Dry Wt
+1439,8062,NaphthC2sDWt,Alkyl Fluoranthenes/Pyrenes : C1 : Dry Wt
+1440,8064,SewDeb Btwn,Thiabendazole
+1441,8068,Permeth-t DW,PCB - 105 : Dry Wt
+1442,8069,PFHxDA,Perfluorotridecane sulfonic acid
+1443,8070,Salm 1 litre,Carbon Disulphide as CS2
+1444,8071,4nNonylphenl,4-n-Octylphenol :- {p-n-Octylphenol}
+1445,8076,CrCuFeNiPb,4-Nitrophenol
+1446,8077,phi 4.5-5.0,Microtox
+1447,8078,234678CBF-TE,Oxidant : Total Residual
+1448,8079,Ammonium,"Oil and Grease, Extractable : Dry Wt"
+1449,8080,,Heptachlorodibenzo-p-dioxin : Sum of Isomers
+1450,8090,Oil,"Antimony, Dissolved"
+1451,8091,Fe - Partic,Mitochondrial Marker : Sheep
+1452,8092,Simazine DWt,Fenthion : Dry Wt
+1453,8102,UVscan WvMx3,4-Chlorotoluene : Dry Wt :- {1-Chloro-4-methylbenzene}
+1454,8103,UVscan AbMx2,Dibromomethane : Dry Wt
+1455,8104,tButylTolDW,Bromodichloromethane : Dry Wt
+1456,8105,UVscan AbMx3,"tert-Butylbenzene : Dry Wt :- {(1,1-Dimethylethyl)benzene}"
+1457,8106,DiOctSn DW,sec-Butylbenzene : Dry Wt :- {1-Methylpropylbenzene}
+1458,8107,phi 6.0-6.5,Grain Size Fraction : phi 4.5 to 5.0
+1459,8108,135TMeBenzDW,n-Propylbenzene : Dry Wt :- {1-phenylpropane}
+1460,8109,Surfactants,tert-Amyl methyl ether :- {TAME}
+1461,8115,PBDE 47 DW,Isopropyl Toluene : Sum of Isomers
+1462,8116,13DiClBenzDW,Chlorobenzene : Dry Wt
+1463,8128,"1,1,1-TCA DW",Bromoform : Dry Wt :- {Tribromomethane}
+1464,8150,,"Equiv.Carbon No >8-10, Aromatic Fraction : Dry Wt"
+1465,8151,,Equiv.Carbon No >6-10 : Dry Wt
+1466,8153,CPHTHN_DRY,"2,3,7,8-Tetrachlorodibenzo-p-dioxin : Dry Wt"
+1467,8162,C>20-30,Equiv.Carbon No >10-44
+1468,8169,,Propiconazole : Dry Wt
+1469,8171,SI-EC-HG,"Uranium, Dissolved"
+1470,8179,Bronopol,tert-Dodecanethiol
+1471,8180,13DiClPropen,Streptococci : Faecal : Presumptive : MF : Wet Wt
+1472,8181,Na LeachDW,Asbestos : Actinolite
+1473,8182,Ecoli C100ml,Borehole : Reference point above OD
+1474,8183,B'hole RefPt,Substances Extractable by Toluene : Dry Wt
+1475,8184,13+14DiMeBen,Bronopol
+1476,8185,LOSS450,Asbestos : Anthophyllite
+1477,8194,PBDE 183 DW,"Escherichia coli, O157 : MPN"
+1478,8195,24Dinitrphnl,"Coliforms, Faecal : Confirmed : MF"
+1479,8196,FlumethrnDwt,4-Nitroaniline
+1480,8198,Phenols Free,Antimony : Dry Wt
+1481,8199,NH3in-sPalin,Ammoniacal Nitrogen : In Situ Palin test
+1482,8200,Zn DW < 63,"Chromium, < 63 um : Dry Wt"
+1483,8201,Acid pH8.3,"Copper, < 63 um : Dry Wt"
+1484,8202,Cr  DW <63,Metals : Total ( Cr Pb ) : Group 41
+1485,8203,PFnonncAcDW,Perfluorodecanoic acid : Dry Wt
+1486,8204,OrthoP L DW,"Cadmium, < 63 um : Dry Wt"
+1487,8205,PCB 126 DW,PCB - 077 : Dry Wt
+1488,8206,SI-EC-SW1,Acetonitrile : Dry Wt :- {Methyl Cyanide}
+1489,8207,PFdecncAcDW,Suite Indicator : EC-SW1
+1490,8208,PCB 169 DW,"Preparation : Metals, Sieved <63 um"
+1491,8209,Ni DW <63,Acidity to pH8.3 as CACO3
+1492,8210,Cd  DW <63,PCB - 169 : Dry Wt
+1493,8211,PCB 77 DW,Phenols : Free
+1494,8212,,
+1495,8213,,
+1496,8214,,
+1497,8215,,
+1498,8216,,
+1499,8217,,
+1500,8218,,
+1501,8219,,
+1502,8220,PFoctncAcDW,Perfluorotetradecanoic acid : Dry Wt
+1503,8224,Ca LeachDW,"Escherichia coli, O157 : Confirmed : MPN"
+1504,8225,Mg LeachDW,Zebra Mussel (Dreissena polymorpha) DNA: Present/Not found
+1505,8227,Li Lch DW,"Chloride, Leachable : Dry Wt"
+1506,8228,As Std Leach,"Calcium, Leachable : Dry Wt"
+1507,8229,PhenolsMH DW,Sulphate : Dry Wt
+1508,8230,As LeachDW,"Coliforms, Total : Presumptive : MF : Wet Wt"
+1509,8231,PBDE 154 DW,"2,5-Dichloroaniline"
+1510,8232,t-DodecThiol,Asbestos : Tremolite -Tremolite
+1511,8233,Cl Leach,"Sodium, Leachable : Dry Wt"
+1512,8245,Noctiluca,"1,2,3-Trimethylbenzene : Dry Wt"
+1513,8246,phi 6.5-7.0,Suite Indicator : G4
+1514,8247,"1,3 DCP (dw)",2-Chlorotoluene : Dry Wt :- {1-Chloro-2-methylbenzene}
+1515,8252,PCB 128 DW,Chloride : Qualitative
+1516,8253,PCB 170 DW,Distance horizontal in from right bank
+1517,8254,Zn WLd,PCB - 031 : Dry Wt
+1518,8255,SI-RED,Grain Size Fraction : phi 3.0 to 3.5
+1519,8256,PCB 157 DW,Sulphate : Qualitative
+1520,8257,PCB 99DW,Equiv.Carbon No : 10-28 (Diesel Range) : Dry Wt
+1521,8258,PCB 114DW,Borehole : Water level wrt local datum
+1522,8259,TDS Leach DW,"Phenols, Leachable : Dry Wt as Phenol"
+1523,8260,Phage TtrPFU,Phenol : Dry Wt
+1524,8261,C10-28 DW,"Manganese, Leachable"
+1525,8262,NO2(QA),Flow : Hourly mean
+1526,8263,Cl(QA),PCB - 123 : Dry Wt
+1527,8264,PCB 189DW,PCB - 114 : Dry Wt
+1528,8265,,
+1529,8266,,
+1530,8267,PCB 018 DW,PCB - 018 : Dry Wt
+1531,8268,UV scan No,Grain Size Fraction : phi 8.0 to 8.5
+1532,8269,,
+1533,8270,Phenol D,Discharge occurrence : In Situ
+1534,8271,PCB 31 DWt,"Trimethylbenzene : Total (1,2,3- 1,2,4- 1,3,5-) : LOD as 0"
+1535,8272,PCB 123DW,Nitrite : Qualitative
+1536,8273,SldSus1/2Hr,Carbon : Dry Wt as C
+1537,8274,Boron BWS DW,Nitrate : Qualitative
+1538,8275,AmmElecHiCOP,PCB - 051 : Dry Wt
+1539,8276,,
+1540,8277,PHENOL LCH D,"Solids, Total Dissolved, Leachable : Dry Wt"
+1541,8278,MTBE DW,"Molybdenum, Leachable : Dry Wt"
+1542,8279,Mo Leach,Dibutyl Tin
+1543,8280,phi 5.0-5.5,Grain Size Fraction : phi 7.0 to 7.5
+1544,8281,NO3(QA),Residual mass : after drying at 105 C
+1545,8282,DischargeOcc,Blue green algal score
+1546,8283,TCB 1/2LOD,PCB - 157 : Dry Wt
+1547,8284,,
+1548,8285,B/Grn AlgaeS,Grain Size Fraction : 8000 to 15999 microns
+1549,8286,Cl orgs Gp4,PCB - 049 : Dry Wt
+1550,8287,PFdodencAcid,Perfluorododecanoic acid
+1551,8288,Number Birds,Number of dogs
+1552,8291,Misc Ident,"Equiv.Carbon No >24-44, Aromatic Fraction"
+1553,8292,F Leach DW,"Chemical Oxygen Demand, Leachable : Dry Wt :- {COD}"
+1554,8296,Obs Flow ROC,Triclosan
+1555,8300,Total HxCDD,"Solids, Suspended, (Optical Turbidity)"
+1556,8306,ChlorophyllA,Appearance of solid : Quantity
+1557,8310,Carbetamide,Pyrene
+1558,8311,Propoxur,Acenaphthylene
+1559,8313,Sb LeachDW,"Phosphorus, Total, Leachable : Dry Wt as P"
+1560,8314,2Acetylfuran,UV Scan : Wavelength Max 3
+1561,8315,2Acetylthiop,UV Scan : Absorbance Max 3
+1562,8316,SI-G3,COSHH Assessment : Cyanide
+1563,8317,GSF1000-3999,Styrene : Dry Wt :- {Vinylbenzene}
+1564,8318,H-Carbons(e),Chlorodibromomethane : Dry Wt
+1565,8319,GSF800015999,Tetrachloroethane
+1566,8320,SI-G4,Oil and Grease : Dry Wt
+1567,8321,P Leach DW,2-Acetylfuran
+1568,8335,1234789CF-TE,PCB - 018
+1569,8341,"1,2 DCE(cis)",Tributyl Tin as Sn
+1570,8342,Omethoate,Beryllium
+1571,8344,Asbestos,Ammonium as NH4
+1572,8345,Pyrene,"Phosphorus, Total, Settled"
+1573,8346,SulphideFilt,"Thallium, Dissolved"
+1574,8347,Ankistrodesm,Hexabromocyclododecane -gamma : Dry Wt
+1575,8348,Tremolite,"Equiv.Carbon No >5-7, Aromatic Fraction"
+1576,8350,phi 5.5-6.0,Grain Size Fraction : phi 9.0 to 9.5
+1577,8353,"2,4-D m e","2,4-D Butyl Ester"
+1578,8354,Nonyl Phenol,Depth : Total
+1579,8355,"2,4-D e e",Salmonella: in 1 Litre
+1580,8356,"2,4-D be","Oxygen, Dissolved : (Laboratory) as O2"
+1581,8357,ODOUR 10xDF,Perfluorooctanesulfonic acid (linear)
+1582,8358,"2,4-D ioe","2,4-D Glycol Butyl Ester"
+1583,8359,"2,4-D bge",Acenaphthene
+1584,8360,Dibenz[ah]an,Bendiocarb
+1585,8364,Cl aliph G5,Carbon Disulphide as CS2 : Dry Wt
+1586,8371,Sb Leach24,"Nitrogen, Total Oxidised, Leachable"
+1587,8372,,
+1588,8382,BenAlcohol,"1,2-Dinitrobenzene"
+1589,8383,Xylene Tot,Neburon
+1590,8384,Actinolite,Chrysotile :- {White Asbestos}
+1591,8387,AznphsEylDWt,Malathion : Dry Wt
+1592,8389,Methane %v/v,PCB - 081 : Dry Wt
+1593,8390,NO3 Lch DW,Sulphur Elemental : Dry Wt
+1594,8394,LOSS105,"2,3,4,6,7,8-Hexachlorodibenzofuran"
+1595,8395,HCHEpslnDWT,Carbophenothion : Dry Wt
+1596,8396,SULPHCOSHH,"1,1,1-Trichloroethane : Dry Wt"
+1597,8427,Oil Quantity,"1,2-Dichloroethane : Dry Wt"
+1598,8429,FluorthneDWt,Anthracene : Dry Wt
+1599,8430,Gas Temp,"1,2,3,4,7,8-Hexachlorodibenzofuran : Dry Wt"
+1600,8432,m-Xylene,tert-Dodecanethiol : Dry Wt
+1601,8434,Total TCDD,"1,3-Dimethylbenzene :- {m-Xylene}"
+1602,8435,b-HBCDD DW,Phosphorus : Load as P
+1603,8438,Total PeCDD,Nickel : Total moving 7 day emissions
+1604,8439,PCB Total,"Equiv.Carbon No >5-6, Aliphatic Fraction : Dry Wt"
+1605,8442,Dimethanoate,"Toluene, Extractable :- {Methylbenzene}"
+1606,8448,U235 ERR,Fenpropidin : Dry Wt
+1607,8449,Sp Waste flg,Lambda-cyhalothrin : Dry Wt
+1608,8450,Chaetocerus,Carbon Dioxide
+1609,8462,phi0.0-0.5,Grain Size Fraction : phi 6.0 to 6.5
+1610,8463,F+Coliphage,BOD : 5 Day
+1611,8464,SI-M,"2,3,5,6-Tetrachlorophenol"
+1612,8470,Total HpCDF,"Solids, Suspended at 105 C : Load"
+1613,8472,,
+1614,8473,TRICLFLMETHN,"1,1,1,2-Tetrachloroethane : Dry Wt"
+1615,8474,"1,2DiBrClPro","cis-1,2-Dichloroethylene : Dry Wt"
+1616,8475,TRICLE-DRY,Vinyl chloride : Dry Wt {Chloroethylene}
+1617,8476,,
+1618,8477,,
+1619,8478,,
+1620,8479,,Isopropyl toluene : Total Isomers : Dry Wt
+1621,8500,Ni - M7DyEm,"1,3-Dichloropropylene (cis- and trans-): Dry Wt"
+1622,8501,Al Wet Wt,Asterionella
+1623,8502,C>8-10 DW,Carbon Dioxide : as % V/V CO2
+1624,8503,Fe LeachDW,Flow : Integrator : Gallons X 1000 :- {Cumulative Flow}
+1625,8504,Oil Vs in-s,"Uranium U-235, Count error"
+1626,8510,PFTrDS,Grain Size Fraction : phi 1.0 to 1.5
+1627,8511,23478-PeCDF,PCB - 114
+1628,8512,RES105,Grain Size Fraction : phi 5.5 to 6.0
+1629,8513,phi 9.5-10.0,Grain Size Fraction : <0.98um : {>10 phi}
+1630,8545,,
+1631,8547,PFpentncAcDW,Perfluorododecanoic acid : Dry Wt
+1632,8548,"2,2 DCP",Trichlorofluoromethane : Dry Wt
+1633,8549,WQMSmonVt+ve,Special waste flag
+1634,8550,Flow SGR,Survey number
+1635,8581,VolatileAcds,"Oxygen, Dissolved : Grant YSI 3800 : In Situ"
+1636,8601,,
+1637,8626,13DiClProp D,4-Methylpyridine :- {4-Picoline}
+1638,8627,TDE (OP')DWt,Benzene : Dry Wt
+1639,8631,TriMeth Benz,"Molybdenum, Leachable : Wet Wt"
+1640,8632,"2,3,7,8-TCDD","1,2,3,7,8,9-Hexachlorodibenzofuran - ITEQ Upper Bound"
+1641,8633,AmmUnionSal,"Optical Density at 350 nm, Filtered"
+1642,8641,phi 2.5-3.0,Demeton-S
+1643,8642,2NAniline,1-Methylnaphthalene
+1644,8647,,
+1645,8649,,
+1646,8651,,
+1647,8654,,
+1648,8661,2ClNaphthaln,Bis(2-chloroethoxy)methane
+1649,8664,C>6-8 Alip,Diazinon : Dry Wt
+1650,8678,RES450,"Detergents, Anionic as Sodium Lauryl Sulphate"
+1651,8679,ClostS-R PMF,Sulphite as SO3
+1652,8694,AcenapthyDW,Calcium : Magnesium ratio
+1653,8695,PO4 tot dis,Tetramethyl Lead
+1654,8697,ACTNIT dwt,PCB - 126 : Dry Wt
+1655,8698,ChlorthalDiM,"2,4-Dinitrophenol"
+1656,8699,SI-EC-SW2,IR Scan
+1657,8700,OES SCREEN,Ammonia un-ionised : % of Total
+1658,8701,MethanalUD,p-tert Octylphenol Monoethoxylate
+1659,8702,AmmoniaNoIo%,"Formaldehyde, Undistilled :- {Methanal}"
+1660,8703,DEPTH B.G.L.,Borehole : Depth to liquid :- {Ground level to liquid}
+1661,8704,K - Dry Wt,Tributyl Tin : Dry Wt as Cation
+1662,8705,Cryptosporid,Potassium : Dry Wt
+1663,8706,TBTCationDWT,"Cadmium, Leachable"
+1664,8707,Sld V @ 500C,3-Nitroaniline
+1665,8708,4NAniline,p-tert Octylphenol Diethoxylate
+1666,8709,Met Grp 44,"Nickel, < 63 um : Dry Wt"
+1667,8710,ColfmF C-MF,"Lead, Leachable"
+1668,8711,Ag - Dry Wt,PCB : Total : Dry Wt
+1669,8712,PCBs DWt,Silver : Dry Wt
+1670,8721,SI-LIST2,Surfactants
+1671,8722,4NOPHENOL,Phosphorus : Dry Wt as P
+1672,8726,C>5-7 Aro DW,Phenols : Total (Phenol+Cresol+Xylenol) : LOD as 0
+1673,8727,,
+1674,8729,phi 1.5-2.0,Suite Indicator : SHWREF
+1675,8730,TIoN Leac DW,Oil : Quantitative
+1676,8731,Carbon DW,COSHH Assessment : Acidity/Alkalinity
+1677,8733,TETCLE-DRY,"Barium, Leachable : Dry Wt"
+1678,8735,BrClMethane,COSHH Assessment : Sulphide
+1679,8736,3Acetylthiop,UV Scan : Wavelength Max 1
+1680,8737,Ba LeachDW,"Nitrogen, Total Inorganic, Leachable : Dry Wt as N"
+1681,8742,Tot HCH A +G,"Carbon, Organic, Dissolved, Leachable : Dry Wt as C"
+1682,8755,PhosphorsTot,Di(2-ethylhexyl) phthalate : Dry Wt :- {DEHP}
+1683,8776,Sld V @480C,"1,2,3,4,7,8-Hexachlorodibenzofuran - ITEQ Upper Bound"
+1684,8778,COD Lch DW,Chloro aliphatics : Group 5
+1685,8779,Cu LeachDW,EDTA
+1686,8780,ParathonMDWt,Azinphos-methyl : Dry Wt
+1687,8781,Sulphur DW,Leaching Method Used
+1688,8804,Bupirimate,"Optical Density at 600 nm, Filtered"
+1689,8806,Antimony -Sb,Deltamethrin
+1690,8807,Thiocyanate,"Chloride, GF/C Filtered"
+1691,8833,,
+1692,8838,Asterionella,"Equiv.Carbon No >6-8, Aliphatic Fraction : Dry Wt"
+1693,8847,"2,4-D ibe",Mitochrondrial Marker: Canine copy number
+1694,8859,phi 9.0-9.5,Grain Size Fraction : phi 0.0 to 0.5
+1695,8863,2chlortoluen,Flow : Integrator :- {Cumulative Flow}
+1696,8864,c-Hept Epox,ICP-MS : Metals screen : Semi-quantitative
+1697,8865,t-Hept Epox,Phorate
+1698,8868,SigCrDNACopy,"Orthophosphate, Leachable"
+1699,8872,Cu Std Leach,"2,2,3,4,4,5-Hexabromodiphenyl ether : Dry Wt :- {PBDE 138}"
+1700,8874,GSF >2000um,Grain Size Fraction : > 2000 microns
+1701,8887,APR 430/410,Algal pigment ratio 430/410
+1702,8888,P - Filtered,"Lead, Di- & Tri- Alkyl"
+1703,8889,APR 480/665,Perfluorohexanoic acid
+1704,8890,DataHandling,Algal pigment ratio 480/665
+1705,8891,Lead di&tSum,Data Handling
+1706,8892,PFpentncAcid,Perfluorooctanoic acid
+1707,8893,PFoctncAcid,Perfluoroheptanoic acid
+1708,8894,PFnonncAcid,Perfluoropentanoic acid
+1709,8895,PCB Con 31,Endosulfan : Total (A + B)
+1710,8896,PCB Con 077,Metaldehyde
+1711,8917,,
+1712,8918,SO4 Leach,"Coliforms, Faecal : Presumptive : MF : Wet Wt"
+1713,8938,Carbon diS D,Tri-allate : Dry Wt
+1714,8939,CHLORONITROB,Tri-n-butyl phosphate
+1715,8940,B-[e]-pyrene,Suite Indicator : EC-F
+1716,8942,HCH Epsilon,"Animal faeces, Strandline to waters edge"
+1717,8943,GCMS Vol Scn,Mitochondrial Marker : Avian
+1718,8944,TriBT Cation,Boron
+1719,8950,,
+1720,8974,DOC Lch DW,"Silicate, Leachable : Dry Wt as SiO2"
+1721,8975,Colfm C-MF,Substances Extractable by Petroleum ether : Wet Wt
+1722,8976,phi 7.5-8.0,"Nitrate, Leachable : Dry Wt as N"
+1723,8977,TETRACHLOROE,"Iron, < 63 um : Dry Wt"
+1724,8980,"1,3 DCP (tr)",Glass Fibres
+1725,8981,FLOW INT,Bromochloromethane : Dry Wt
+1726,8983,BROMOBENZENE,Isopropylbenzene : Dry Wt :- {Methylethylbenzene}
+1727,8984,nPropylBenzn,"1,2-Dibromo-3-chloropropane : Dry Wt"
+1728,8994,Flutriafol,Weather : Temperature Dry Bulb
+1729,8995,PFundencAcid,PCB - 169
+1730,8997,Bifenox,Atrazine-desethyl :- {Atrazine-de-ethyl}
+1731,8998,DBT Cation,Aldicarb
+1732,8999,Irgarol 1051,Benzo(a)Anthracene
+1733,9000,2-Ethylphenl,Iprodione
+1734,9002,OptDens@580F,Metalaxyl
+1735,9003,Vinyl Cl,Suite Indicator : BT
+1736,9004,MethxychlDWt,Terbutryn : Dry Wt
+1737,9005,"2,3,5,6-TClT","2,3,5,6-Tetrachlorothioanisole"
+1738,9006,Fe DW <63,Dioctyl Tin : Dry Wt as Cation
+1739,9007,OD 350 filt,"HCH : Total Isomers (Alpha, Beta, Gamma, Delta, Epsilon)"
+1740,9008,Glucose,Trichloroethylene : Dry Wt :- {Trichloroethene}
+1741,9009,SALIN CALC,"2,4-D Esters : Total"
+1742,9011,PBDE 153,"2,2,4,4,5,5-Hexabromodiphenyl ether :- {PBDE 153}"
+1743,9013,PBDE 154,"2,2,4,4,5,6-Hexabromodiphenyl ether :- {PBDE 154}"
+1744,9014,phi 3.5-4.0,Hexafluoropropylene oxide trimer acid
+1745,9015,PBDE 99,"2,2,4,4,5-Pentabromodiphenyl ether :- {PBDE 99}"
+1746,9016,Liqlevel LDm,Hydrocarbons : Total as Ekofisk
+1747,9017,PBDE 100,"2,2,4,4,6-Pentabromodiphenyl ether :- {PBDE 100}"
+1748,9018,SiO2 L DW,3-Acetylthiophene
+1749,9019,PBDE 47,"2,2,4,4-Tetrabromodiphenyl ether :- {PBDE 47}"
+1750,9020,Met Grp 21,Weather : Unusual Condition Flag : Scale 0-5
+1751,9021,HCHs ABGDE,Salinity : Calculated from Chloride
+1752,9025,PCB - 099,Phenmedipham
+1753,9026,Mo LeachDW,Sulphate : Total : Dry Wt
+1754,9027,PBDE Total,PCB - 081
+1755,9029,TON Leach,"Potassium, Leachable : Dry Wt"
+1756,9030,Mn LeachDW,Grain Size Fraction : phi 2.0 to 2.5
+1757,9032,,
+1758,9035,C>5-8,Equiv.Carbon No >5-8
+1759,9037,,
+1760,9039,Cols 2Dy@37C,Methyl-Ethyl-Ketone :- {Butanone}
+1761,9040,Cols 1Dy@37C,Colony count : 2 Days at 37C : Aerobic
+1762,9041,IsoPr toluen,3-Methylpyridine :- {beta-Picoline}
+1763,9042,,
+1764,9043,1MeNaphthaln,Suite Indicator : EC-IN
+1765,9044,Fluorene,Azobenzene
+1766,9050,"1,2,3-TCB","1,3,5-Trichlorobenzene"
+1767,9051,"1,2,4-TCB",Atrazine
+1768,9052,"1,3,5-TCB","1,2,4-Trichlorobenzene"
+1769,9054,,
+1770,9055,,
+1771,9057,,
+1772,9062,HptchlEpxDWt,"1,2,3,4,6,7,8-Heptachlorodibenzo-p-dioxin : Dry Wt"
+1773,9066,NonPhenEthOx,1-Propanol :- {n-Propanol}
+1774,9068,Ioxynil,Appearance of liquid : Main Colour
+1775,9073,Chrysene,Carbetamide
+1776,9091,25Dichlrphnl,Coumaphos
+1777,9094,"2,5-Xylenol",MCPB :- {4-Chloro-2-methylphenoxybutyric acid}
+1778,9097,Drins Drvd,State of tide
+1779,9098,Tri-n-Butyl,trans-Chlordane
+1780,9134,24hrOEL,Naphthalenes : C1 : Dry Wt
+1781,9142,Pig Mito,Redox Potential : In Situ
+1782,9143,BAlky CaCO3,"Demetons : Sum of (-S Me Sox, -S Me, -S Me Sone)"
+1783,9145,LIGHT EXT.,Bromobenzene
+1784,9146,BOD5DyATUSet,Grain Size Fraction: > 1000 microns
+1785,9147,PCB 138 DW,PCB - 028 : Dry Wt
+1786,9148,HFPO-TA,Perfluorohexadecanoic acid
+1787,9151,Methomyl,Colour (1/0)
+1788,9152,High Water,PCB - 156
+1789,9153,Tars/Floatg,trans-Heptachlor epoxide
+1790,9154,IntactFaeces,Grease /Scum
+1791,9155,Grease/Scum,Sanitary towels
+1792,9156,Iron - as Fe,Sewage debris
+1793,9157,ConTamp,Intact faeces
+1794,9158,SanitryTowls,"Algal bloom, Strandline to waters edge"
+1795,9159,NoxSwgeOdors,Obnoxious sewage odours
+1796,9160,CAlky CaCO3,HCH : Total
+1797,9161,Beach Users,Number of beach users
+1798,9166,BacCF128,Weather : Temperature of Air
+1799,9175,OptDens@600U,"Fluoride, Leachable : Dry Wt"
+1800,9190,Pollutn Sign,4-Nonylphenol Branched
+1801,9193,Chlrdn-csDWt,"2,3,7,8-Tetrachlorodibenzofuran : Dry Wt"
+1802,9195,Perylene DWt,PCB - 128 : Dry Wt
+1803,9196,Dibromomethn,Perfluorodecanoic acid
+1804,9197,PCB Con 105,High water
+1805,9198,PFheptncAcid,Dibromomethane
+1806,9199,Al Active,"BOD : 5 Day (2.0 mg/l ATU), Filtered"
+1807,9238,CHT Cation,"1,1-Dichloroethylene :- {1,1-Dichloroethene}"
+1808,9239,4:2 FTSA,Demeton-S-methyl sulphoxide (Oxydemeton-methyl)
+1809,9247,Clost P-MF,Oxygen : as % V/V O2
+1810,9248,"2,4-Xylenol",Oil Type : Qualitative
+1811,9252,BisphenolA,Sodium : Chloride ratio
+1812,9253,PCB 105 DW,"BOD : 5 Day, Settled"
+1813,9257,1234678HpCDD,Chlordane
+1814,9258,PCB Con 156,Chlorothalonil
+1815,9260,17alpha EE2,Colour
+1816,9263,Me Triclosan,HCH -beta : Dry Wt
+1817,9267,ptOctylPheno,Phaeophytin B
+1818,9270,GSF3.9-7.79,Escherichia coli : HH2 genetic marker
+1819,9274,pFoctanoate,Flow : Rate of change
+1820,9275,Met Grp 45,Asbestos : Fibres detected
+1821,9276,PFOS,"Trichlorobenzene : Total (123-, 124-, 135-)"
+1822,9285,C>10-25 Aro,"Equiv.Carbon No >24-40, Aromatic Fraction"
+1823,9297,HCHs ABGD,Escherichia coli : Presumptive : MPN
+1824,9337,SolidsVol550,"1,2,3,6,7,8-Hexachlorodibenzo-p-dioxin"
+1825,9338,OilTypeQual,"3,5-Dimethylphenol :- {3,5-Xylenol}"
+1826,9339,Fenuron,"Carbon, Organic, Total as C :- {TOC}"
+1827,9340,Diclobutrazl,3:3 Fluorotelomer carboxylic acid
+1828,9341,Permethrn-cs,Zinc : BLM Bioavailable
+1829,9342,Permethrn-Tr,Weather : Wind Speed
+1830,9343,3Chlorophenl,Bacillus globigii : MF
+1831,9344,OptDens@400F,Quinoxyfen
+1832,9345,Diflurobnzrn,Terbutryn
+1833,9348,Chlortoluron,cis-Permethrin
+1834,9349,,
+1835,9350,OptDens@450F,"Hardness, Magnesium"
+1836,9357,"1,2 DCE (tr)",Organo Tin : Total
+1837,9364,Endosulphan,Odour : 10x Dilution Factor
+1838,9366,SCHRADAN,Tecnazene and its metabolites
+1839,9371,C>24-40,Equiv.Carbon No >10-16
+1840,9389,,
+1841,9398,PCB - 052,PCB 028 + 031
+1842,9399,"2,2' Oxybise",Suite Indicator : EC-HG
+1843,9435,C>6-10 DW,Gymnodinium : Bloom algae
+1844,9436,MPhT Cation,Grain Size Fraction : 2000 to 4000 microns
+1845,9437,Met Grp 20,Grain Size fraction <20um
+1846,9438,Imazalil,Metals : Total ( Cd Cr Cu Ni Pb Zn ) : Group 20
+1847,9439,GSF >8000,Grain Size Fraction : 1000 to 2000 microns
+1848,9440,C>5-10 Aro,"1,3,5-Trichlorobenzene : Dry Wt"
+1849,9441,GSF 1k- 2k,Dimethyl formamide :- {DMF}
+1850,9442,C>5-10 Ali,Benzo(b)Fluoranthene : Dry Wt
+1851,9446,Ba- Filtered,trans-Permethrin
+1852,9447,B - Filtered,"Boron, Dissolved"
+1853,9451,"2,3-Xylenol",Permethrin (cis- and trans-)
+1854,9453,Chlorotoluen,2-Ethyl phenol
+1855,9454,23Dichloropl,Iodofenphos
+1856,9456,"1,2,4-Trimet","1,3,5-Trimethylbenzene :- {Mesitylene}"
+1857,9457,"1,3 -DICHLOR",Titanium
+1858,9458,135TriMeBenz,"1,2,3-Trimethylbenzene"
+1859,9460,ColfmF MF10,"Orthophosphate, Dissolved"
+1860,9461,StrepF PMF10,"BOD : 5 Day ATU, Filtered"
+1861,9462,Odour - DF,"2,6-Dimethylphenol :- {2,6-Xylenol}"
+1862,9466,PCB Con 020,Antimony
+1863,9467,2Chlortoluen,PCB - 008
+1864,9468,HeptachlrEpx,"Oils, Grease and Fats"
+1865,9472,PCB Con 170,PCB - 128
+1866,9474,Coumaphos,"2,5-Dimethylphenol :- {2,5-Xylenol}"
+1867,9475,DemetonSMyl,"2,3,6-TBA :- {2,3,6-Trichlorobenzoic acid}"
+1868,9477,Dichlobenil,Dichlobenil
+1869,9478,ButyleneTot,"Butylene glycol: Total (1,3 and 1,4)"
+1870,9479,Mevinphos,Lasting foam
+1871,9483,,
+1872,9484,Endo-A DW,Titanium : Dry Wt
+1873,9494,Isodrin,Chlorophyll a + b
+1874,9496,Fenchlorphos,Weather : Hours of sunshine
+1875,9497,P - Dry Wt,"Chromium, Leachable"
+1876,9514,GSF <20,Benzo(k)Fluoranthene : Dry Wt
+1877,9519,Carbophenthn,"Lithium, Dissolved"
+1878,9522,Phenol,"Selenium, Dissolved"
+1879,9525,C6-10,Sample not taken : Health and safety
+1880,9526,Carbamazepi,Monophenyl Tin as Cation
+1881,9527,No sampleH&S,Grain Size Fraction >8000um
+1882,9548,,
+1883,9552,"2,6-DCP","Optical Density at 690 nm, Filtered"
+1884,9565,,
+1885,9566,,
+1886,9569,SI-EC-IN,Bis(2chloroisopropyl) ether
+1887,9573,L Cyhalothrn,Bacteroidetes Marker : Human copy number
+1888,9583,Horse Bact,Equiv.Carbon No >10-40
+1889,9584,DNBP,Phenols : Total (7 Compounds) : Group 3
+1890,9586,Propetamphos,Chlorophyll : Methanol Extract
+1891,9587,Phaeocystis,Volatile fatty acids : Total as CH3COOH
+1892,9589,MalathionDWt,Simazine : Dry Wt
+1893,9596,Propan-2-ol,Inclusive Graphic Skewness :- {SKI}
+1894,9599,Diazinon WWt,Sulphur
+1895,9602,HCBD DRY,Alkyl Phenanthrenes/Anthracenes : C3 : Dry Wt
+1896,9603,MonOctylSn,"Alkalinity, Carbonate as CaCO3"
+1897,9604,F+II/IIIphag,Monooctyl Tin as Cation
+1898,9606,Quinoxyfen,Bacteroidetes Marker : Ruminant
+1899,9618,"1,2-DCB",Chromium Hexavalent
+1900,9619,"1,3-DCB","2,4-D Methyl Ester"
+1901,9634,Propazine,"Salinity, by Bench Salinometer"
+1902,9638,Foam Visible,Foam Visible
+1903,9639,LCMS,Hydrocarbon Oils
+1904,9669,Naphthalene,Chlorophyll b
+1905,9671,Monolinuron,Prochloraz
+1906,9672,NPEs 1-15,Acetate
+1907,9684,Colour,Oestrone :- {E1}
+1908,9686,Nitrogen - N,"Nitrogen, Total as N"
+1909,9688,ColourAbnoml,Colour : Abnormal
+1910,9689,Alky pH8.3,Streptococci : Faecal
+1911,9690,ETU,Methyl triclosan
+1912,9691,TarryResidus,Tarry residues
+1913,9692,Amitrole,Crocidolite :- {Blue Asbestos}
+1914,9695,SI-HARM,Suite Indicator : D
+1915,9696,Colfrm Conf,Imazapyr
+1916,9703,"3,5-Xylenol",Site visit only : No sample bottle
+1917,9707,CO2,Isopropylphenol diphenyl phosphate
+1918,9713,Clarity Code,"1,1,2,2-Tetrachloroethane : Dry Wt"
+1919,9715,Azinphos Myl,Parathion-ethyl :- {Parathion}
+1920,9716,Fenitrothion,GCMS Screen : Target Based multi-residue screening : Semi Quantitative
+1921,9717,3-MePyridine,2-Methylpyridine
+1922,9724,DELTAMETHRIN,"Optical Density at 570 nm, Filtered"
+1923,9725,OptDens@470F,"Optical Density at 530 nm, Filtered"
+1924,9726,OptDens@420F,"Optical Density at 560 nm, Filtered"
+1925,9727,Aclonifen,"2,3,5,6-Tetrachloroaniline"
+1926,9728,OptDens@570F,"Optical Density at 510 nm, Filtered"
+1927,9729,OptDens@520F,"Optical Density at 660 nm, Filtered"
+1928,9730,OptDens@530F,"Optical Density at 680 nm, Filtered"
+1929,9731,ATRZ-ETHYL,"Optical Density at 500 nm, Filtered"
+1930,9732,OptDens@670F,4-Chlorotoluene :- {1-Chloro-4-methylbenzene}
+1931,9733,OptDens@610F,"Optical Density at 480 nm, Filtered"
+1932,9734,OptDens@430F,"Optical Density at 800 nm, Filtered"
+1933,9735,OptDens@510F,Active Aluminium : Dissolved
+1934,9736,OptDens@550F,Aclonifen
+1935,9737,OptDens@480F,"1,2-Dibromoethane"
+1936,9738,OptDens@540F,Lambda-cyhalothrin
+1937,9739,OptDens@800F,Streptococci : Faecal : Presumptive : MF : Analysis in 10 Hours
+1938,9740,OptDens@630F,"Optical Density at 580 nm, Filtered"
+1939,9741,ATRZ-ISOPR,"Optical Density at 550 nm, Filtered"
+1940,9742,OptDens@640F,"Optical Density at 590 nm, Filtered"
+1941,9743,CHLORIDE GFC,"Optical Density at 460 nm, Filtered"
+1942,9744,OptDens@660F,"Optical Density at 610 nm, Filtered"
+1943,9745,OptDens@690F,"Optical Density at 630 nm, Filtered"
+1944,9746,Colour (1/0),"Titanium, Filtered"
+1945,9747,OptDens@680F,"Optical Density at 640 nm, Filtered"
+1946,9748,OptDens@410F,"Optical Density at 540 nm, Filtered"
+1947,9749,OptDens@440F,"Optical Density at 470 nm, Filtered"
+1948,9750,OptDens@560F,"Optical Density at 520 nm, Filtered"
+1949,9751,Napropamide,Methiocarb
+1950,9756,Neburon,Perfluorooctylsulphonate anion
+1951,9766,phi 1.0-1.5,Grain Size Fraction : phi 6.5 to 7.0
+1952,9768,PCB Con 028,PCB - 052
+1953,9769,PCB Con 052,PCB - 101
+1954,9770,PCB Con 101,PCB - 118
+1955,9771,PCB Con 118,PCB - 153
+1956,9772,PCB Con 138,PCB - 180
+1957,9773,PCB Con 153,PCB - 138
+1958,9774,PCB Con 180,"2,4-D :- {2,4-Dichlorophenoxyacetic acid}"
+1959,9794,,
+1960,9797,Flow Mean Hr,PCB - 170 : Dry Wt
+1961,9798,TextVirology,Phage : Titration of dosing mixture
+1962,9799,"1,1Diclethan",Carbon tetrachloride : Dry Wt :- {Tetrachloromethane}
+1963,9800,phi0.5-1.0,Grain Size Fraction : phi  0.5 to 1.0
+1964,9801,phi 7.0-7.5,Grain Size Fraction : phi 7.5 to 8.0
+1965,9802,GSF  <0.98um,Grain Size Fraction : phi 8.5 to 9.0
+1966,9803,FenitrthnDWt,Weather condition applied
+1967,9807,HumanMito CN,"2,4-D Iso Butyl Ester"
+1968,9809,Propan13Diol,HEMPA :- {Hexamethylphosphoramide}
+1969,9811,112TCEthan,Strontium
+1970,9814,2Chlorophenl,Endosulfan B
+1971,9815,4ClPhenol,Phenanthrene
+1972,9816,24Dichloropl,Toluene :- {Methylbenzene}
+1973,9817,t12DCEe,"Optical Density at 430 nm, Filtered"
+1974,9818,245Trichlphl,Chlorpyrifos-methyl
+1975,9819,"2,4,6-T",Appearance of liquid : Colour Strength
+1976,9820,123478CBD-TE,Octachlorodibenzo-p-dioxin - ITEQ Upper Bound
+1977,9821,Flow l/s,"Alkalinity, Bicarbonate as CaCO3"
+1978,9822,Amoxicillin,PCB - 149
+1979,9823,Permthrn c+t,Chrysene
+1980,9827,Cl DW leach,Linear Alkyl Sulphonates :- {LAS}
+1981,9835,PropanoicAcd,"Equiv.Carbon No >7-8, Aliphatic Fraction"
+1982,9836,11DClEthan,GCMS Screen : Volatile Screen : Semi Quantitative
+1983,9839,SI-KEY,PCB - 031
+1984,9841,Molybdenm-Mo,Chloronitrotoluene : Total Isomers
+1985,9844,FaecalStrep,Suite Indicator : LIST2
+1986,9845,o-Xylene,Fenoprop
+1987,9851,Co- Filtered,Flucofuron
+1988,9853,Nitrate Filt,Water Depth
+1989,9855,Toluene Extr,"trans-1,3-Dichloropropylene : Dry Wt"
+1990,9856,SewageDebris,"Orthophosphate, Filtered as P"
+1991,9857,SiO2 Filt,"Solids, non-volatile at 500 C"
+1992,9860,Metazachlor,"Coliforms, Total : Presumptive : MF : Analysis in 10 Hours"
+1993,9861,MetsulfrnMyl,Cypermethrin Identification
+1994,9862,Bac Ruminant,Bifenox
+1995,9863,AzinphsEthyl,Ioxynil
+1996,9864,Phenols MH,Triazophos : Dry Wt
+1997,9865,AznphsMylDWt,Phenols : Monohydric
+1998,9866,CyfluthrnDWt,Dichlorvos : Dry Wt
+1999,9867,BorholDepBDm,Pentachlorodibenzo-p-dioxin : Sum of Isomers
+2000,9868,Benzene DW,Temperature of Gas
+2001,9869,4-MePyridine,trans-Permethrin : Wet Wt
+2002,9870,DichlovosDWt,Atrazine : Dry Wt
+2003,9871,TriazphosDWt,"Flow, maximum"
+2004,9877,12378PeCDDdw,"Chemical Oxygen Demand, Settled :- {COD}"
+2005,9878,Sulphite SO3,"Nitrite, Leachable : Dry Wt as N"
+2006,9879,Dieldrin DWt,Grain Size Inclusive Kurtosis
+2007,9880,ButanoicAcid,Flow
+2008,9883,Pichloram,"1,2-Dichlorobenzene"
+2009,9885,V - Filtered,"Transparency, visual, Non Secchi"
+2010,9888,Acrb-slphx,"Optical Density at 410 nm, Filtered"
+2011,9889,PBDE 183,17beta oestradiol :- {E2}
+2012,9890,,
+2013,9891,PFMOBA,Buprofezin
+2014,9892,Pendimethaln,Pendimethalin
+2015,9897,PermthrnTrWW,Acidity to pH 8.3 as CaCO3
+2016,9898,Metaldehyde,Borehole : Water level at sample time
+2017,9899,HHM Ident.,"2,2,3,4,4,5,6-Heptabromodiphenyl ether :- {PBDE 183}"
+2018,9901,O Diss %sat,"Oxygen, Dissolved, % Saturation"
+2019,9905,V - Dry Wt,Flumethrin : Wet Wt
+2020,9911,Bendiocarb,3-Chlorophenol
+2021,9912,LAT MIN,MTBE : Dry Wt :- {Methyl tert-butyl ether}
+2022,9916,Thallium -Tl,"Detergents, Cationic - unspecified"
+2023,9921,Sulphide - S,"2,3-Dichlorophenol"
+2024,9924,Oxygen Diss,"Oxygen, Dissolved as O2"
+2025,9925,GS Mean,2-Nitrophenol
+2026,9926,,
+2027,9929,NPEs,Octylphenol ethoxylates : Total compounds
+2028,9933,ColformsPre,"Cadmium, Dissolved"
+2029,9935,E.coli Pres,Lithium
+2030,9942,Colfm Conf,Rhodium
+2031,9943,N Oxid Filt,"Nitrogen, Total Oxidised, Filtered as N"
+2032,9951,Chlordane-tr,Trihalomethanes : Total :- {THM}
+2033,9952,C>10-35 Aro,"Equiv.Carbon No >10-40, Aliphatic Fraction"
+2034,9953,EUPHOTIC Z,Euphotic depth : In Situ :- {ZEU}
+2035,9959,Pirimicarb,Pirimicarb
+2036,9978,ClpyrifosEt,Desmetryn
+2037,9979,Ethion,Carbendazim
+2038,9980,,
+2039,9987,GSF 2k-4k,DDT -pp : Dry Wt
+2040,9989,Salinity,Trifluralin
+2041,9990,Tecnazene,Cyanide : Free as CN
+2042,9992,OMR Smpl Num,Laboratory Sample Number : Nottingham OMR
+2043,9993,NH3 filt N,"Ammoniacal Nitrogen, Filtered as N"
+2044,9995,Cobalt - Co,2-Chloro-5-nitrotoluene
