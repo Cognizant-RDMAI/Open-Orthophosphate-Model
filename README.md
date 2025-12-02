@@ -251,7 +251,7 @@ Users assume full responsibility for their use of the Software, validating the S
    
 1. Northumbrian Water Limited
 2. Cognizant Worldwide Limited
-3. Xylem
+3. Xylem Water Solutions UK Limited
 4. Water Research Centre Limited
 5. RSK ADAS Limited
 6. The Rivers Trust
