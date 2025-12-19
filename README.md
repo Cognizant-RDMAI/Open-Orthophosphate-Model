@@ -50,6 +50,8 @@ Supports traditional monitoring practices by inferring orthophosphate levels usi
 ## 📜 License
 MIT License. See [LICENSE] for details.
 
+## 🗄️ Report Download
+Please download the Open Orthophosphate Model Report [HERE](https://github.com/Cognizant-RDMAI/Open-Orthophosphate-Model/blob/release/V2/BB1C%20-%20Open%20Orthophosphate%20Model%20-%20Report%20v2.4.pdf).
 
 ## 📊 Data Summary
 
@@ -251,7 +253,7 @@ Users assume full responsibility for their use of the Software, validating the S
    
 1. Northumbrian Water Limited
 2. Cognizant Worldwide Limited
-3. Xylem
+3. Xylem Water Solutions UK Limited
 4. Water Research Centre Limited
 5. RSK ADAS Limited
 6. The Rivers Trust
