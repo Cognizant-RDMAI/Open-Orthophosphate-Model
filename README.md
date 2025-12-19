@@ -50,6 +50,8 @@ Supports traditional monitoring practices by inferring orthophosphate levels usi
 ## 📜 License
 MIT License. See [LICENSE] for details.
 
+## 🗄️ Report Download
+Please download the Open Orthophosphate Model Report [HERE](https://github.com/Cognizant-RDMAI/Open-Orthophosphate-Model/blob/release/V2/BB1C%20-%20Open%20Orthophosphate%20Model%20-%20Report%20v2.4.pdf).
 
 ## 📊 Data Summary
 
