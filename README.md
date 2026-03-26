@@ -53,6 +53,15 @@ MIT License. See [LICENSE] for details.
 ## 🗄️ Report Download
 Please download the Open Orthophosphate Model Report [HERE](https://github.com/Cognizant-RDMAI/Open-Orthophosphate-Model/blob/release/V2/BB1C%20-%20Open%20Orthophosphate%20Model%20-%20Report%20v2.4.pdf).
 
+### Benchmark Download:
+
+River Deep Mountain AI models have been independently benchmarked by WRc and ADAS, against existing industry-standard tools. The benchmarking reports assess model performance, ‘ease-of-use’, time and cost requirements.Read the full report [here]().
+
+### Whitepaper Download:
+
+Please download the whitepaper [here]().
+
+
 ## 📊 Data Summary
 
 The open orthophosphate modeling project harnesses an a comprehensive dataset - 24 years of water quality archives from the Environment Agency, measured at 64,000+ sampling points across England. This includes 3,261 water quality parameters — from pH levels to nutrient concentrations—offering a holistic view of catchment dynamics. The Environment Agency dataset was used in Exploratory Data Analysis (EDA) to build training data for this model. EDA data including approximately 70 million samples from 64,000+ sampling points collected during Jan-2000 until May 2024 were analysed, incorporating all water body types. Later, sample data points were restricted for river surface water (classified in the EA database as ‘River / Running Surface’ samples) for final model consumption. Of the extensive analysis on the 3,261 water quality determinands, 45 representative determinands were selected to build the training dataset. Along with this, spatiotemporal metadata such as latitude, longitude, sampling point notation, timestamp, and additional temporal-based feature-engineered parameters were finalised. Below is the list of input parameters to the model.
