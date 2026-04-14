@@ -55,11 +55,11 @@ Please download the Open Orthophosphate Model Report [HERE](https://github.com/C
 
 ### Benchmark Download:
 
-River Deep Mountain AI models have been independently benchmarked by WRc and ADAS, against existing industry-standard tools. The benchmarking reports assess model performance, ‘ease-of-use’, time and cost requirements.Read the full report [here]().
+River Deep Mountain AI models have been independently benchmarked by WRc and ADAS, against existing industry-standard tools. The benchmarking reports assess model performance, ‘ease-of-use’, time and cost requirements.Read the full report [here](https://github.com/Cognizant-RDMAI/Open-Orthophosphate-Model/tree/main/Supporting-documents).
 
 ### Whitepaper Download:
 
-Please download the whitepaper [here]().
+Please download the whitepaper [here](https://github.com/Cognizant-RDMAI/Open-Orthophosphate-Model/tree/main/Supporting-documents).
 
 
 ## 📊 Data Summary
